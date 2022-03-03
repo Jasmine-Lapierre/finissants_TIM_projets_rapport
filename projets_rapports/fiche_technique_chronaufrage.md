@@ -11,28 +11,16 @@ L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en ma
 Par ce projet, nous souhaitons exposer la pression vécue dans notre société de devoir être toujours plus productives afin d'exprimer la nécessité de prendre des pauses ou du temps pour soi. Nous souhaitons ainsi faire valoir l’importance du temps « mort » et « improductif » pour s’accomplir comme humain. On utilise l'eau comme la symbolisation du temps.
 
 ### Synopsis
-L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis. Devant lui se trouve 4 grands tableaux immobiles. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime selon la position et/ou les gestes de l'interacteur.22
+L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis. Devant lui se trouve 4 grands tableaux immobiles. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime selon la position et/ou les gestes de l'interacteur.
 
-## RÉSUMÉ DU SCÉNARIO DES SCÈNES DE L'HORLOGE DE L'APOCALYPSE
-#### SCÈNE 1
-- L’interacteur arrive sur les lieux devant lui se trouve un piédestal avec une horloge. Lorsque l’interacteur entre dans la pièce, une lumière jaillit du plafond et vient éclairer l’installation. Un écran noir apparait donc devant l’utilisateur et indique à ce dernier de remettre les aiguilles de l’horloge à minuit pour démarrer l’expérience.
+## VUE DE L'ENSEMBLE DU PROJET
+- Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un tracé de tapis rouge longeant un mur remplis de cadres artistiques, dont quatre gigantesques cadres qui sont projetés sur quatre canvas physique, et quelques petites oeuvres d'art. Le tapis rouge est éclairé tout au long par une faible lumière.
 
-#### SCÈNE 2
-- Après quelques secondes, une vidéo apparait. Un narrateur explique le concept de l’horloge de l’apocalypse. Le narrateur voit une horloge sur les murs qui l’entourent et du texte qui s’affiche en bas de celle-ci. Plus la vidéo explicative de l’horloge avancera, plus les aiguilles de l’horloge avanceront vers minuit. 
-- L’horloge de l’Apocalypse représente la ligne du temps de l’humanité. — En effet, la première heure de l’horloge souligne le début de l’humanité et la dernière représente la fin du monde autrement dit l’apocalypse. 
-- L’horloge explose et un son d’acouphène est entendu. Elle représente le Big Bang qui souligne le début de la planète.
+#### INTERACTION AVEC LE PROJET
+- L'interacteur s'approche du projet et embarque sur le tapis, les lumières qui éclairent le tapis rouge augmentent d'intensité. Il suit le chemin du tapis rouge. À chaque qu'il arrive devant un des quatre grand cadre, le cadre change de nom (voir plus bas dans le scénarimage de chaque tableau) et s'anime. Lorsqu'il fait un mouvement, il va voir que cela produit un changement/mouvement dans l'oeuvre d'art, donc il va essayer d'intéragir avec.
 
-#### SCÈNE 3
-- Lorsque l’horloge pointera minuit, la lumière au plafond clignotera pendant 2 secondes sur l’horloge afin d’inciter l’interacteur vers celle-ci. L’utilisateur peut alors changer les aiguilles de l’horloge afin de changer de scène. Chaque heure une nouvelle animation apparaitra. La première heure soulignera le début de l’humanité. Plus l’horloge avancera, plus le décor deviendra sombre et apocalyptique. Le son sera ajusté avec le décor pour bien compléter les animations. Lorsque l’horloge atteindra minuit, une vidéo apparait et il n’est plus possible de revenir en arrière.
-
-#### SCÈNE 4
-- Une vidéo apparait avec une horloge qui défile à toute allure vers minuit. Un message s’affiche ensuite. Une musique de suspense est jouée durant cette scène. 
-
-#### SCÈNE 5
-- Un son de téléphone est entendu. Lorsque l’interacteur prendra le téléphone, un bouton sera relâché et activera la prochaine scène et le narrateur.
-
-#### SCÈNE 6
-- L’utilisateur sera filmé et dupliqué sur les murs qui l’entourent pour donner un sentiment de pression et de stress comme s’il était observé. Cela donne l’impression que l’humanité repose entre les mains du spectateur et montre l’impact personnel que chaque individu possède afin d’améliorer la situation de l’humanité. Une musique inspirante commence à jouer. Un phénomène d’explosion cosmique (« fade au blanc » avec « son whoosh ») est entendu et affiche un fond noir. Les crédits commencent et l’expérience de l’horloge de l’apocalypse est terminée.
+#### FIN DE L'INTERACTION
+- Lorsque l'interacteur fini son parcours sur le tapis, les lumières diminuent en intensité. Au bout du tapis, l'interacteur voit un livre d'or éclairé par une lumière de chevet, déposé sur un podium, qui est là pour l'inciter à écrire son avis ou un commentaire sur le projet qu'il vient de vivre.
 
 
 ## Liste des composantes multimédia 
