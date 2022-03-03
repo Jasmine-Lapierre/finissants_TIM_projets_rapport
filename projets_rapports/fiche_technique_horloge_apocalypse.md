@@ -45,6 +45,12 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 - 11 trames sonores (1 par scène), le tout est évolutif
 - 4 modules multimédia (captation des données, interprétation des données, contrôle d'éclairage, contrôle vidéo)
 
+### Objets univers artistique
+>#### Pour plus de détails --> [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1945969_cmontmorency_qc_ca/ERKCSlUJhTFEp-WwGbcpxx0BK9-bCbdidCFUX_tMK-mZ6w?e=4yY9z0)
+- Horloge antique romaine
+- Vieux téléphone à roulette
+- Piédestal (style antiquité romaine)
+
 
 ## Liste des éléments nécessaires pour la mise en exposition  
 - Du tape noir pour camoufler les fils
