@@ -37,11 +37,10 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 
 
 ## Liste des composantes multimédia 
-- 11 animations conçues avec after effects (1 par scène)
-- 1 animations supplémentaires conçues avec after effects pour la scène finale
-- Effets sonores divers pour la scène d'introduction et la scène finale
-- 11 trames sonores (1 par scène), le tout est évolutif
-- 4 modules multimédia (captation des données, interprétation des données, contrôle d'éclairage, contrôle vidéo)
+- 4 vidéos pour les tableaux principaux (1 par membre de l'équipe)
+- 4 effets sonores
+- 1 piste sonore générale
+- 10 petits tableaux secondaires
 
 ## Liste des équipements requis
 #### AUDIO
@@ -91,10 +90,7 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 - Davinci Resolve
 
 ### Objets univers artistique
->#### Pour plus de détails --> [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1945969_cmontmorency_qc_ca/ERKCSlUJhTFEp-WwGbcpxx0BK9-bCbdidCFUX_tMK-mZ6w?e=4yY9z0)
-- Horloge antique romaine
-- Vieux téléphone à roulette
-- Piédestal (style antiquité romaine)
+- [Univers artistique + contenu à intégrer](https://docs.google.com/spreadsheets/d/1NA115m_GSag19zl8HwUQhka4C-CUOffIUMqOuchhcaI/edit#gid=0)
 
 
 ## SCHÉMA DE L'INSTALLATION DE L'OEUVRE
