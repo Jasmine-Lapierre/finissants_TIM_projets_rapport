@@ -52,7 +52,7 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 - Piédestal (style antiquité romaine)
 
 ## SCHÉMA DE L'INSTALLATION DE L'OEUVRE
-![schéma](medias/schema_horloge_apocalypse.png)
+![schéma](medias/schema_horloge_apocalypse.png) 
 
 
 ## Liste des éléments nécessaires pour la mise en exposition  
