@@ -76,6 +76,10 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 - Reaper
 - Max 8
 - Madmapper
+- Adobe Photoshop 
+- Paint Tool Sai
+- Krita
+- Procreate
 
 ### Objets univers artistique
 - [Univers artistique + contenu à intégrer](https://docs.google.com/spreadsheets/d/1NA115m_GSag19zl8HwUQhka4C-CUOffIUMqOuchhcaI/edit#gid=0)
