@@ -68,23 +68,14 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 #### ORDINATEUR
 - 1 chariot Desktop
 
-#### AUTRES
-- Kit de camera
-- Kit de detection de présence (capteur de mouvement (kinect) pour le spotlight)
-- 1 potentiomètre
-- Toile blanche (pour projection)
-- 1 bouton
-- 8 safety
-
 ## Liste des logiciels requis
-- Max 8
-- Photoshop
-- After Effects
-- MadMapper
-- Arduino
+- Autodesk Maya
 - OBS Studio
-- GitHub Desktop
-- Davinci Resolve
+- Adobe Premiere Pro
+- Adobe After Effects
+- Reaper
+- Max 8
+- Madmapper
 
 ### Objets univers artistique
 - [Univers artistique + contenu à intégrer](https://docs.google.com/spreadsheets/d/1NA115m_GSag19zl8HwUQhka4C-CUOffIUMqOuchhcaI/edit#gid=0)
