@@ -4,7 +4,7 @@
 
 
 ## RÉSUMÉ DU PROJET 
->#### Ces textes sont tirés du site web des projets des finissants TIM 2022 - [Chronofage](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
+>#### Ces textes sont tirés du site web des projets des finissants TIM 2022 - [Chronofrage](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
 L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis. Devant lui se trouve 4 grands tableaux immobiles et quelques petits tableaux. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime et intéragit selon la position ou bien les mouvements de l'interacteur.
 
 ### Intention de départ
@@ -35,45 +35,38 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 #### SCÈNE 4
 - Tu ne m'importe plus | Renouveau
 
-
-
-
-
-
 ## Liste des composantes multimédia 
 - 4 vidéos pour les tableaux principaux (1 par membre de l'équipe)
 - 4 effets sonores
 - 1 piste sonore générale
 - 10 petits tableaux secondaires
 
-## Liste des équipements requis
+## Matériel de scénographie requis
+- 4 canvas en faux-cadres
+- 4 (ou 8?) filets de pêche pour accrocher les canvas
+- Toile ou tissus blanc ressemblant à de la toile
+- Tapis rouge (location)
+- Pôle d'attente (emprunté du collège)
+- Livre d'or (facultatif)
+- Podium (emprunté du collège)
+
+## ÉQUIPEMENT REQUIS
 #### AUDIO
-- 4 haut-parleurs
-- 8 fils XLR 3
-- Focusrite carte de son
+- 2 hauts-parleurs (Stéréo)
+- Carte de son
 
 #### VIDÉO
-- 3 projecteurs vidéo lentille ultra wide 0.3
-- 3 système d'acrochage
-- 1 caméra Sony a6500
+- 1 projecteur vidéo lentille standard (0.5)
+- 1 système d'acrochage pour projecteurs
+- 1 Kinect
+- 1 téléphone + kit POE
 
 #### LUMIÈRE
-- 1 projecteur de lumière couleur
-- 2 fils XLR 3 conducteurs de 20'
-- Console DMX
-- Interface DMX USB
-
-#### ÉLECTRICITÉ
-- 8 cordons IEC (pour l'alimentation des haut-parleurs)
-- 2 extensions 3 fiches et 3 conducteurs
-- 2 multiprise
-
-#### RÉSEAU
-- 5 fils ethernet
+- 2 spotlights ou DMX
+- Lumière de table de chevet
 
 #### ORDINATEUR
-- 1 ordinateur de l'école ou 2 si le premier ne suffit pas
-- 2 micro-contrôleur (Arduino)
+- 1 chariot Desktop
 
 #### AUTRES
 - Kit de camera
