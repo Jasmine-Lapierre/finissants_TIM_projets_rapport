@@ -107,7 +107,7 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 
 
 ## ORGANISATION BUDGET
-![budget](medias/budget_HA.png)
+![budget](/medias/budget_HA.png)
 
 
 
