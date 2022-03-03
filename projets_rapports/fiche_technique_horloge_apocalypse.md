@@ -106,6 +106,10 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 ![contraintes](medias/contraintes_techniques.png)
 
 
+## ORGANISATION BUDGET
+![budget](medias/budget_HA.png)
+
+
 
 ## Liste des éléments nécessaires pour la mise en exposition  
 - Du tape noir pour camoufler les fils
