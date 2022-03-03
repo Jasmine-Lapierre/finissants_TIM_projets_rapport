@@ -103,7 +103,7 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 ![schéma](/medias/schema_horloge_apocalypse.png) 
 
 ## CONTRAINTES TECHNIQUES ET POTENTIELS PROBLÈMES DE PRODUCTION
-![contraintes](medias/contraintes_techniques.png)
+![contraintes](/medias/contraintes_techniques.png)
 
 
 ## ORGANISATION BUDGET
