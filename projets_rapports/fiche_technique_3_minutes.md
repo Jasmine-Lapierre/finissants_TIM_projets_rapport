@@ -1,2 +1,2 @@
 
-[machin](medias/untitled.png)
+[machin](/medias/untitled.png)
