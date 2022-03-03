@@ -45,6 +45,43 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 - 11 trames sonores (1 par scène), le tout est évolutif
 - 4 modules multimédia (captation des données, interprétation des données, contrôle d'éclairage, contrôle vidéo)
 
+## Liste des équipements requis
+#### AUDIO
+- 4 haut-parleurs
+- 8 fils XLR 3
+- Focusrite carte de son
+
+#### VIDÉO
+- 3 projecteurs vidéo lentille ultra wide 0.3
+- 3 système d'acrochage
+- 1 caméra Sony a6500
+
+#### LUMIÈRE
+- 1 projecteur de lumière couleur
+- 2 fils XLR 3 conducteurs de 20'
+- Console DMX
+- Interface DMX USB
+
+#### ÉLECTRICITÉ
+- 8 cordons IEC (pour l'alimentation des haut-parleurs)
+- 2 extensions 3 fiches et 3 conducteurs
+- 2 multiprise
+
+#### RÉSEAU
+- 5 fils ethernet
+
+#### ORDINATEUR
+- 1 ordinateur de l'école ou 2 si le premier ne suffit pas
+- 2 micro-contrôleur (Arduino)
+
+#### AUTRES
+- Kit de camera
+- Kit de detection de présence (capteur de mouvement (kinect) pour le spotlight)
+- 1 potentiomètre
+- Toile blanche (pour projection)
+- 1 bouton
+- 8 safety
+
 ### Objets univers artistique
 >#### Pour plus de détails --> [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1945969_cmontmorency_qc_ca/ERKCSlUJhTFEp-WwGbcpxx0BK9-bCbdidCFUX_tMK-mZ6w?e=4yY9z0)
 - Horloge antique romaine
