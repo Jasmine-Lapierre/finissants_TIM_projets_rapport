@@ -96,13 +96,9 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 
 
 
-
 ### *DATES IMPORTANTES*
-- *Première itération : lundi 8 novembre 2021*
-- *Prototype final : lundi 13 décembre 2021*
-- *Version finale du prototype: 11 mars 2022*
-- *Production : Vendredi 18 Mars 2022*
-- *Installation : Vendredi 18 Mars 2022*
+- *Première itération : lundi 30 novembre*
+- *Prototype finale : lundi 10 décembre*
 - *Présentation des projets devant public : jeudi 25 mars (soir)*
 
 
