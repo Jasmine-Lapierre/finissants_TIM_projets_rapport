@@ -91,7 +91,8 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 ## CONTRAINTES TECHNIQUES ET POTENTIELS PROBLÈMES DE PRODUCTION
 ![contraintes](/medias/contraintes_techniques_chronofrage.png)
 
-
+## BUDGET POUR LA RÉALISATION DE L'OEUVRE
+![budget](/medias/budget_chronofrage.png)
 
 
 
