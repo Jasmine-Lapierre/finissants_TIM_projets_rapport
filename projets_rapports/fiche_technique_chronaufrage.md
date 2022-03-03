@@ -94,7 +94,7 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 ![schéma](/medias/schema_chronofrage.png) 
 
 ## CONTRAINTES TECHNIQUES ET POTENTIELS PROBLÈMES DE PRODUCTION
-![contraintes](/medias/contraintes_techniques.png)
+![contraintes](/medias/contraintes_techniques_chronofrage.png)
 
 
 
