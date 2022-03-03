@@ -1,4 +1,4 @@
-# Chronofage
+# Chronofrage
 ### *PROJET FINISSANT TIM 2022*
 >#### *Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte, Émilie Fontaine* 
 
@@ -34,6 +34,10 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 
 #### SCÈNE 4
 - Tu ne m'importe plus | Renouveau
+
+
+
+
 
 
 ## Liste des composantes multimédia 
