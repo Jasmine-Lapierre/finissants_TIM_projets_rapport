@@ -16,8 +16,26 @@ L'interacteur arrive dans une salle, il a la possibillité de jouer avec les aig
 Le public est appelé à se rendre compte du peu de temps qu'il reste à l'humanité selon l'horloge de l'apocalypse.
 
 
-## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
-- L'oeuvre est esxposé dans une pièce sombre avec d'autres oeuvres à l'entour. Placé sur un grand mur noir, la création est étallée sur un bon 5 mètres environ de mémoire
+## RÉSUMÉ DU SCÉNARIO DE CHAQUE HEURE (scène) DE L'HORLOGE
+#### SCÈNE 1
+- L’interacteur arrive sur les lieux devant lui se trouve un piédestal avec une horloge. Lorsque l’interacteur entre dans la pièce, une lumière jaillit du plafond et vient éclairer l’installation. Un écran noir apparait donc devant l’utilisateur et indique à ce dernier de remettre les aiguilles de l’horloge à minuit pour démarrer l’expérience.
+
+#### SCÈNE 2
+- Après quelques secondes, une vidéo apparait. Un narrateur explique le concept de l’horloge de l’apocalypse. Le narrateur voit une horloge sur les murs qui l’entourent et du texte qui s’affiche en bas de celle-ci. Plus la vidéo explicative de l’horloge avancera, plus les aiguilles de l’horloge avanceront vers minuit. 
+- L’horloge de l’Apocalypse représente la ligne du temps de l’humanité. — En effet, la première heure de l’horloge souligne le début de l’humanité et la dernière représente la fin du monde autrement dit l’apocalypse. 
+- L’horloge explose et un son d’acouphène est entendu. Elle représente le Big Bang qui souligne le début de la planète.
+
+#### SCÈNE 3
+- Lorsque l’horloge pointera minuit, la lumière au plafond clignotera pendant 2 secondes sur l’horloge afin d’inciter l’interacteur vers celle-ci. L’utilisateur peut alors changer les aiguilles de l’horloge afin de changer de scène. Chaque heure une nouvelle animation apparaitra. La première heure soulignera le début de l’humanité. Plus l’horloge avancera, plus le décor deviendra sombre et apocalyptique. Le son sera ajusté avec le décor pour bien compléter les animations. Lorsque l’horloge atteindra minuit, une vidéo apparait et il n’est plus possible de revenir en arrière.
+
+#### SCÈNE 4
+- Une vidéo apparait avec une horloge qui défile à toute allure vers minuit. Un message s’affiche ensuite. Une musique de suspense est jouée durant cette scène. 
+
+#### SCÈNE 5
+- Un son de téléphone est entendu. Lorsque l’interacteur prendra le téléphone, un bouton sera relâché et activera la prochaine scène et le narrateur.
+
+#### SCÈNE 6
+- L’utilisateur sera filmé et dupliqué sur les murs qui l’entourent pour donner un sentiment de pression et de stress comme s’il était observé. Cela donne l’impression que l’humanité repose entre les mains du spectateur et montre l’impact personnel que chaque individu possède afin d’améliorer la situation de l’humanité. Une musique inspirante commence à jouer. Un phénomène d’explosion cosmique (« fade au blanc » avec « son whoosh ») est entendu et affiche un fond noir. Les crédits commencent et l’expérience de l’horloge de l’apocalypse est terminée.
 
 # Voici le croquis de l'oeuvre vue de haut
 
