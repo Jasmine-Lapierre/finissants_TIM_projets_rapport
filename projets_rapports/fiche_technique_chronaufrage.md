@@ -24,16 +24,16 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 
 ## DESCRIPTION MINIME DES SCÈNES
 #### SCÈNE 1
-Le temps file entre mes doigts | Pluie
+- Le temps file entre mes doigts | Pluie
 
 #### SCÈNE 2
-Arrêtez de me regarder, je ne peux pas tout arrêter | Cascade
+- Arrêtez de me regarder, je ne peux pas tout arrêter | Cascade
 
 #### SCÈNE 3
-Je n'en peux plus | Noyade
+- Je n'en peux plus | Noyade
 
 #### SCÈNE 4
-Tu ne m'importe plus | Renouveau
+- Tu ne m'importe plus | Renouveau
 
 
 ## Liste des composantes multimédia 
