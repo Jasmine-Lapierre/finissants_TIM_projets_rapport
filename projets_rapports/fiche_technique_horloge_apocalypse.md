@@ -82,11 +82,22 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 - 1 bouton
 - 8 safety
 
+## Liste des logiciels requis
+- Max 8
+- Photoshop
+- After Effects
+- MadMapper
+- Arduino
+- OBS Studio
+- GitHub Desktop
+- Davinci Resolve
+
 ### Objets univers artistique
 >#### Pour plus de détails --> [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1945969_cmontmorency_qc_ca/ERKCSlUJhTFEp-WwGbcpxx0BK9-bCbdidCFUX_tMK-mZ6w?e=4yY9z0)
 - Horloge antique romaine
 - Vieux téléphone à roulette
 - Piédestal (style antiquité romaine)
+
 
 ## SCHÉMA DE L'INSTALLATION DE L'OEUVRE
 ![schéma](medias/schema_horloge_apocalypse.png) 
