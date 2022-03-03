@@ -1,6 +1,6 @@
-# Horloge Apocalypse
-
->## *REFIK ANADOL, 2020* 
+# L'horloge de l'apocalypse
+### *PROJET FINISSANT TIM 2022*
+>#### *Maxime Sabourin, Louis-Philippe Gravel, Maxime De Falco,Tristan Girard-Montpetit, Alexis Lacasse* 
 
 
 ### 5th International Digital Art Biennial, Arsenal Contemporary Art Montreal *11/19/2021 - 01/02/2022*
