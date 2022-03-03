@@ -16,7 +16,7 @@ L'interacteur arrive dans une salle, il a la possibillité de jouer avec les aig
 Le public est appelé à se rendre compte du peu de temps qu'il reste à l'humanité selon l'horloge de l'apocalypse.
 
 
-## RÉSUMÉ DU SCÉNARIO DE CHAQUE HEURE (scène) DE L'HORLOGE
+## RÉSUMÉ DU SCÉNARIO DES SCÈNES DE L'HORLOGE DE L'APOCALYPSE
 #### SCÈNE 1
 - L’interacteur arrive sur les lieux devant lui se trouve un piédestal avec une horloge. Lorsque l’interacteur entre dans la pièce, une lumière jaillit du plafond et vient éclairer l’installation. Un écran noir apparait donc devant l’utilisateur et indique à ce dernier de remettre les aiguilles de l’horloge à minuit pour démarrer l’expérience.
 
