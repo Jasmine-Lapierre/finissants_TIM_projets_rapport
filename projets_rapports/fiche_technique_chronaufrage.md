@@ -91,14 +91,13 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 
 
 ## SCHÉMA DE L'INSTALLATION DE L'OEUVRE
-![schéma]() 
+![schéma](/medias/schema_chronofrage.png) 
 
 ## CONTRAINTES TECHNIQUES ET POTENTIELS PROBLÈMES DE PRODUCTION
 ![contraintes](/medias/contraintes_techniques.png)
 
 
-## ORGANISATION BUDGET
-![budget](/medias/budget_HA.png)
+
 
 
 
