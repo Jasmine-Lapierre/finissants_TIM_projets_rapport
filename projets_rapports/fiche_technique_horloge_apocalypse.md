@@ -38,7 +38,7 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 - L’utilisateur sera filmé et dupliqué sur les murs qui l’entourent pour donner un sentiment de pression et de stress comme s’il était observé. Cela donne l’impression que l’humanité repose entre les mains du spectateur et montre l’impact personnel que chaque individu possède afin d’améliorer la situation de l’humanité. Une musique inspirante commence à jouer. Un phénomène d’explosion cosmique (« fade au blanc » avec « son whoosh ») est entendu et affiche un fond noir. Les crédits commencent et l’expérience de l’horloge de l’apocalypse est terminée.
 
 
-## Liste des composantes multimédia
+## Liste des composantes multimédia 
 - 11 animations conçues avec after effects (1 par scène)
 - 1 animations supplémentaires conçues avec after effects pour la scène finale
 - Effets sonores divers pour la scène d'introduction et la scène finale
