@@ -1,11 +1,11 @@
 # Jeu Temporel
 ### *PROJET FINISSANT TIM 2022*
->#### *Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte, Émilie Fontaine* 
+>#### *Raphaël Fillion et Philippe Trudel* 
 
 
 ## RÉSUMÉ DU PROJET 
->#### Ces textes sont tirés du site web des projets des finissants TIM 2022 - [Chronofrage](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
-L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis. Devant lui se trouve 4 grands tableaux immobiles et quelques petits tableaux. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime et intéragit selon la position ou bien les mouvements de l'interacteur.
+>#### Ces textes sont tirés du site web des projets des finissants TIM 2022 - [Chronofrage](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
+Ils souhaite sensibiliser la génération actuelle sur les conséquences écologiques de nos actions pour le futur. "Nous voulons également que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement et susciter son action. Une personne est invité à faire une expérience intéractive sur le sujet de l'environnement et changements climatique. Cette personne entre dans le jeu télévisé fictif Jeu Temporel pour montrer son talent, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse." disent t'ils.
 
 ### Intention de départ
 Par ce projet, nous souhaitons exposer la pression vécue dans notre société de devoir être toujours plus productives afin d'exprimer la nécessité de prendre des pauses ou du temps pour soi. Nous souhaitons ainsi faire valoir l’importance du temps « mort » et « improductif » pour s’accomplir comme humain. On utilise l'eau comme la symbolisation du temps.
