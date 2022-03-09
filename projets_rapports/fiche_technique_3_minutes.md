@@ -1,6 +1,6 @@
 # 3 minutes
 ### *PROJET FINISSANT TIM 2022*
->#### *Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte, Émilie Fontaine* 
+>#### *Naoufal BensaiadJérémie Lévesque, Jérémie Lévesque, Samuel Poulin* 
 
 
 ## RÉSUMÉ DU PROJET 
