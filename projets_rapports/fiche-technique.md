@@ -8,7 +8,7 @@
 ### Synopsis
 ## VUE DE L'ENSEMBLE DU PROJET
 ### Ambiance du projet
-### Interaction avec le projet
+### Interaction de l'utilisateur
 ## SCHÉMA DE PLANTATION
 ![SCHÉMA](IMAGE DU SCHÉMA)
 ## COURS INDISPENSABLES
