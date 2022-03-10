@@ -43,10 +43,10 @@ Le projet a plutôt l'air d'une oeuvre contemplative oû la seule interraction q
 ## SCHÉMA DE PLANTATION
 ![PLANTATION](/medias/distorsion_temporelle_plantation.png)
 ## COURS INDISPENSABLES
-1- 
+1- Réalité virtuelle. Ce projet est un projet de réalité virtuelle, alors savoir comment réaliser une expérience de réalité virtuelle est indispensable. 
 
-2- 
+2- Modélisation 3D. Afin de créer un projet de réalité virtuelle, les étudiants doivent savoir modéliser les differents éléments présents dans cette réalité virtuelle.
 
-3- 
+3- Animation 2D. Dans ce projet, les étudiants doivent utiliser les notions aprises dans le cours d'Animation 2D, notamment pour créer les animations 2D qui seront affichées sur la télé dans la réalité virtuelle.
 
 
