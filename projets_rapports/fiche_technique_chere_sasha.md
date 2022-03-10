@@ -3,14 +3,14 @@
 ### *PROJET FINISSANT TIM 2022*
 >#### *Trish Nguyen, Angelina De Silva Jeca, Karine Cormier, Sabrina Kayani* 
 
-
+>#### Toutes les informations techniques ainsi que les schémas sont tirés du site web des projets des finissants TIM 2022 - [Chère Sasha](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html)
 ## RÉSUMÉ DU PROJET 
->#### Ces textes sont tirés du site web des projets des finissants TIM 2022 - [Chère Sasha](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html)
+
 ### Intention de départ
 <<Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourée de parents qui ne supporte pas leur enfant peut **changer au fil du temps**. Aussi, on veux exposer comment un conflit intergénérationnel influence la vie d'une personne.>>
 
 ### Synopsis
-Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant.
+<<Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant.>>
 
 
 ## VUE DE L'ENSEMBLE DU PROJET
@@ -62,36 +62,110 @@ La projection se ferme puis un ordinateur est illuminé, l'interacteur est invit
 ## Liste des composantes multimédia à réaliser ou à trouver
 - Diverses photos - jpeg (6)
 - Icones - png (3)
-- Modules multimédias - MAX (2)
+- Modules multimédias - max (2)
 - Audio, son bruits et dialogues - wav (30)
 - Vidéos de Sasha projetées au mur - mp4 (3)
-- 
+
 
 ## Matériel de scénographie requis
+- Lit gonflabe
 
+    Queen
+ 
+- Draps
+
+    Blanc pour adulte
+    
+    Noir pour ado
+    
+- Oreiller
+
+    Même couleur que les draps
+    
+- Table de chevet
+
+    2 tables
+    
+- Journal
+
+    Bleu
+    
+    Noir
+    
+- Boite de souvenir
+
+    Assez grande pour insérer des objets
+    
+    Photos
+    
+    Billets de concert
+    
+- Plantes
+- Poubelle
+
+    Noir avec trou
+    
+    Pansement
+    
+    Examen
+    
+    Devoirs
+    
+    Notes
+    
+- Téléphone
+
+    Iphone 6s
+    
+    1 autres téléphone
+    
+- Lampe
+- Vêtements
+- Déchets
+
+    Bouteille vide
+    
+    Papier
+    
+- Table pour téléphone public
 
 ## ÉQUIPEMENT REQUIS
 #### AUDIO
 
+4 haut-parleurs (Hauts-parleurs Genelec 8010 8")
+1 mini haut-parleur (Petit speaker portable / bluetooth - Divoom Airbeat-10)
+1 carte de son (Carte de son Berhinger U-Phoria 8 in 8 out)
+5 cables XLR
+4 cables XLR-Jack
+4 cables d'alimentaion haut-parleur
+2 Magic arm
+2 trépied à lumière (temporaire)
 
 #### VIDÉO
 
+1 projecteur vidéo lentille standard (Projecteur short throw, ratio 0.3, 5000 lumens)
+1 Extender réseau HDMI
+2 cables HDMI
+2 cables Ethernet
+Caméra (go pro)
+
 #### LUMIÈRE
+2 spots de lumière (chauvet DJ EVE E-100W Warm white Ellipsoidal Spot)
+3 lumières de couleur (Chauvet SlimPAR Pro H USB)
+Dimmer pack DMX - 4 out
+5 cables d'alimentation de lumière
+6 cables XLR
+1 cables XRL-USB
+1 lampe de lave
+1 lampe de bureau
 
 
-#### ORDINATEUR
 
-## Liste des logiciels requis
-
-
-### Objets univers artistique
-
-
-
-## SCHÉMA DE L'INSTALLATION DE L'OEUVRE
-
-## CONTRAINTES TECHNIQUES ET POTENTIELS PROBLÈMES DE PRODUCTION
-
-## BUDGET POUR LA RÉALISATION DE L'OEUVRE
+## SCHÉMA DE PLANTATION
+![PLANTATION](/medias/chere_sasha_plantation.jpg)
+## COURS INDISPENSABLES
+1- Le cours de documentation d'oeuvres multimédia. Afin de documenter toutes les étapes du projet, l'équipe utilise Github qui est un outils qu'on apprend à utiliser en cours de Documentation d'oeuvres multimédia. Sans ces connaissances, les étudiants auraient de la difficulté à garder une hiérarchie des dossiers et une nomenclature ordonnée et compréhensible.
+2- Le cours de Conception sonore. Ce projet contient 30 éléments sonores à réaliser. Afin d'avoir une ambiance sonore qui se tient, je crois que c'est important de suivre ce cours. Dans ce cours, les étudiants voient, par exemple, comment traiter une bande sonore.
+3- Le cours de Conception vidéo. Ce projet contient 3 vidéos à réaliser. Mes cours m'ont fait comprendre que créer une vidéo qui semble professionnelle est beaucoup plus compliqué que ce que je croyais, alors je crois qu'avoir suivi ce cours les a beaucoup aidé lors de la création de ces vidéos.
 
 
