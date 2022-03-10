@@ -33,8 +33,3 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 
 
 
-
-### *DATES IMPORTANTES*
-- *Première itération : lundi 30 novembre*
-- *Prototype finale : lundi 10 décembre*
-- *Présentation des projets devant public : jeudi 25 mars (soir)*
