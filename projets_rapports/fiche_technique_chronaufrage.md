@@ -39,8 +39,8 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 ![schéma](/medias/schema_chronofrage.png) 
 
 ## COURS INDISPENSABLES
-1 Animation 2D
-2 Conception sonore
-3 Espace interactif
+1. Animation 2D
+2. Conception sonore
+3. Espace interactif
 
 
