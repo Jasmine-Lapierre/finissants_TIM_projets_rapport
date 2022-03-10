@@ -1,6 +1,6 @@
 # Distorsion collective
 ### *PROJET FINISSANT TIM 2022*
->#### *Trish Nguyen, Angelina De Silva Jeca, Karine Cormier, Sabrina Kayani* 
+>#### *William Dubois,  Ghislain Lacombe* 
 
 >#### Toutes les informations techniques ainsi que les schémas sont tirés du site web des projets des finissants TIM 2022 - [Distorsion Collective](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html)
 ## RÉSUMÉ DU PROJET 
