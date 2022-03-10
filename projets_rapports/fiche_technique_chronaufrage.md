@@ -4,7 +4,7 @@
 
 
 ## RÉSUMÉ DU PROJET 
->#### Ces textes sont tirés du site web des projets des finissants TIM 2022 - [Chronaufrage](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
+>#### Ces textes et photos sont tirés du site web des projets des finissants TIM 2022 - [Chronaufrage](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
 L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis. Devant lui se trouve 4 grands tableaux immobiles et quelques petits tableaux. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime et intéragit selon la position ou bien les mouvements de l'interacteur.
 
 ### Intention de départ
