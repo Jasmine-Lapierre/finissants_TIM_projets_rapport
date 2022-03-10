@@ -1,18 +1,13 @@
 # MES PRÉFÉRENCES
-## ORDRE DE MES PRÉFÉRENCES
+### ORDRE DE MES PRÉFÉRENCES
 
-1- L'horloge de l'Apocalypse
+1. L'horloge de l'Apocalypse
+2. Chronofrage
+3. Jeu temporel
+4. Chère Sasha 
+5. Distorsion Collective
+6. 3 minutes
 
-2- Chronofrage
+### JUSTIFICATION
 
-3- Jeu temporel
-
-4- Chère Sasha 
-
-5- Distorsion Collective
-
-6- 3 minutes
-
-## Justification
-
-# Mon rôle dans le futur
+# MON RÔLE DANS LE FUTUR 
