@@ -15,6 +15,7 @@
 
 ## VUE DE L'ENSEMBLE DU PROJET
 ![PLAN](/medias/chere_sasha_plan.jpg)
+>image provenant d'un document que j'ai photographié
 
 Cette oeuvre représente une chambre séparée en deux. Une partie est désordonnée et sale ; l'autre est propre. 
 Le but de cet oeuvre est de faire prendre conscience à l'interacteur que les deux parties représentent la même personne à deux moments differents de sa vie. 
@@ -84,6 +85,7 @@ Dans la chambre, il y a plusieurs objets avec lesquels les interacteurs peuvent 
 
 #### SCÉNARIMAGE COMPLET
 ![SCÉNARIMAGE](/medias/chere_sasha_scenarimage.png)
+>Provient du site web du projet [Chère Sasha](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html)
 
 
 ## SCHÉMA DE PLANTATION
