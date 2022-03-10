@@ -51,7 +51,9 @@ Le matériel scénographique utilisés donne une ambiance de l'époque romaine/a
 
 
 ## COURS INDISPENSABLES
-
+1- Animation 2D 
+2- Conception sonore
+3- Espace interactif
 
 
 
