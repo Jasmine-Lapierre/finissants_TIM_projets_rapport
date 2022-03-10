@@ -24,7 +24,7 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 
 
 ## SCHÉMA DE PLANTATION
-![schema_jeu_temporel.png]
+![schema](/medias/schema_jeu_temporel.png)
 
 ## COURS INDISPENSABLEs
 
