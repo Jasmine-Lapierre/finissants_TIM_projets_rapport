@@ -7,10 +7,10 @@
 ## RÉSUMÉ DU PROJET 
 
 ### Intention de départ
-<<Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourée de parents qui ne supporte pas leur enfant peut **changer au fil du temps**. Aussi, on veux exposer comment un conflit intergénérationnel influence la vie d'une personne.>>
+«Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourée de parents qui ne supporte pas leur enfant peut **changer au fil du temps**. Aussi, on veux exposer comment un conflit intergénérationnel influence la vie d'une personne.»
 
 ### Synopsis
-<<Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant.>>
+«Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant.»
 
 
 ## VUE DE L'ENSEMBLE DU PROJET
