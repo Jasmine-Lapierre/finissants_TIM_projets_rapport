@@ -1,4 +1,4 @@
-# Chère Sasha
+# Distorsion collective
 ### *PROJET FINISSANT TIM 2022*
 >#### *Trish Nguyen, Angelina De Silva Jeca, Karine Cormier, Sabrina Kayani* 
 
