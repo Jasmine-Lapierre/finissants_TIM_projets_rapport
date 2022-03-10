@@ -17,19 +17,24 @@ Gustave de la Morenci vous invite à faire part d'une expérience hors du commun
 
 
 ## VUE DE L'ENSEMBLE DU PROJET
-Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un tracé de tapis rouge longeant un mur remplis de cadres artistiques, dont quatre gigantesques cadres qui sont projetés sur quatre canvas physique, et quelques petites oeuvres d'art. Le tapis rouge est éclairé tout au long par une faible lumière.
+La curiosité du jeu va pousser le ou les intéracteurs à jouer et participer au questionnaire. Le jeu se transforme pour faire un parallèle avec les changements climatiques rapides qui vont arriver dans les prochaines années (ex: le jeu devient de plus en plus du style 'noir').
+La transformation s'apparente avec une modification tout au long du jeu; changements visibles de l'animateur, questions avec une connotation plus prononcée d'humour noir, animateur visiblement fâché, etc. Ceci a pour effet de changer l'humeur général de la présentation d'un niveau de naïveté, vers du sérieux. La transformation indique aussi une métaphore du changement climatique, que plus le temps avance, plus les changements sont perceptible et tangible.
 
 #### AMBIANCE DU PROJET
+Le visuel devant l'expérience serait de montrer en facade de la couleur, une musique agréable, un thème de fête. La personne qui va faire l'expérience va donc avoir des attentes différentes à ce qu'il va vivre durant le jeu. On veut vraiment faire ressentir à l'intéracteur le changment d'ambiance tout au long de l'expérience.
+Il va avoir un animateur qui, tout au long de l'expérience, changera d'apparence selon où l'intéracteur est rendu. Il va aussi avoir des 'glitchs' pour renforcer l'idée que l'expérience se transforme.
 
 #### INTERACTION AVEC L'UTILISATEUR
-- L'interacteur s'approche du projet et embarque sur le tapis, les lumières qui éclairent le tapis rouge augmentent d'intensité. Il suit le chemin du tapis rouge. À chaque qu'il arrive devant un des quatre grand cadre, le cadre change de nom (voir plus bas dans le scénarimage de chaque tableau) et s'anime. Lorsqu'il fait un mouvement, il va voir que cela produit un changement/mouvement dans l'oeuvre d'art, donc il va essayer d'intéragir avec.
+En débutant le jeu, une nouvelle page s'affiche présentant le questionnaire.
+
+Nous allons poser une quinzaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions que l'humour en passant par des décisions moraux.
+
+Suivant ces questions, l'animateur fera des commentaires envers le participant selon la réponse qu'il ou elle choisit;
+
+
 
 
 ## SCHÉMA DE PLANTATION
-- 4 vidéos pour les tableaux principaux (1 par membre de l'équipe)
-- 4 effets sonores
-- 1 piste sonore générale
-- 10 petits tableaux secondaires
 
 ## COURS INDISPENSABLEs
 
