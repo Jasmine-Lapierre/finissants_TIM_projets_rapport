@@ -21,6 +21,8 @@ J'aime l'idée de montrée les deux côtés d'une personne (Sasha) vivant avec d
 Personnellement, pour commencer, je n'aime pas être enfermée et je crois qu'une grande majorité est de mon avis. Je comprend totallement l'idée d'être dans la peau d'une personne se faisant intimidé, mais je crois que ce qui m'attire moins c'est l'ambiance du gymnase, de l'école et de devoirs jouer au ballon chasseur. Le fait qu'on se fait «obliger» à jouer au jeu et de se faire enfermer en guise de vivre l'expérience «réel» et complète n'est pas quelque chose qui me donne envis d'aller voir l'oeuvre. Je pense que plusieurs personnes vont beaucoup aimés le principe et l'originalité du projet, mais pour ceux au contraire qui aurait déjà vécu une tel situation va peut-être être mal à l'aise de revivre cette expérience voir refuser de la faire totalement.
 
 ## MON RÔLE DANS LE FUTUR 
+Je pense que dans le futur, le rôle que j'aimerais faire est faire partie du commité de communication, faire la coordination artistique et la création de bandes sonor.
+Je crois avoir le potentiel pour ces tâches, pusique en multimédia, c'est vraiment la section artistique et sonor que je pense fermement être meilleure dans ces domaines qu'en éclairage, malgré que ce soit un travail d'équipe et qu'il faut participer à tout même à ce qu'on aime pas.
 
 ## EXPÉRIENCE RESSENTI
 
