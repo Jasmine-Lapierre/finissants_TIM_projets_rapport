@@ -16,7 +16,13 @@ L'interacteur arrive dans une salle, il a la possibillité de jouer avec les aig
 Le public est appelé à se rendre compte du peu de temps qu'il reste à l'humanité selon l'horloge de l'apocalypse.
 
 
-## RÉSUMÉ DU SCÉNARIO DES SCÈNES DE L'HORLOGE DE L'APOCALYPSE
+## VUE DE L'ENSEMBLE DU PROJET
+
+### AMBIANCE DU PROJET
+>#### Pour plus de détails --> [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1945969_cmontmorency_qc_ca/ERKCSlUJhTFEp-WwGbcpxx0BK9-bCbdidCFUX_tMK-mZ6w?e=4yY9z0)
+Le matériel scénographique utilisés donne une ambiance de l'époque romaine/antique. Ce matériel va nous plonger dans une ambiance mystérieuse, grandiose et vieillot. 
+
+### INTERACTION AVEC L'UTILISATEUR
 #### SCÈNE 1
 - L’interacteur arrive sur les lieux devant lui se trouve un piédestal avec une horloge. Lorsque l’interacteur entre dans la pièce, une lumière jaillit du plafond et vient éclairer l’installation. Un écran noir apparait donc devant l’**utilisateur et à ce dernier de remettre les aiguilles de l’horloge à minuit pour démarrer l’expérience.**
 
@@ -28,31 +34,23 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 
 
 #### SCÈNE 3
-- Lorsque l’horloge pointera minuit, la lumière au plafond clignotera pendant 2 secondes sur l’horloge afin d’inciter l’interacteur vers celle-ci. L’utilisateur peut alors changer les aiguilles de l’horloge afin de changer de scène. Chaque heure une nouvelle animation apparaitra. La première heure soulignera le début de l’humanité. Plus l’horloge avancera, plus le décor deviendra sombre et apocalyptique. Le son sera ajusté avec le décor pour bien compléter les animations. Lorsque l’horloge atteindra minuit, une vidéo apparait et il n’est plus possible de revenir en arrière.
+- Lorsque l’horloge pointera minuit, la lumière au plafond clignotera pendant 2 secondes sur l’horloge afin d’inciter l’interacteur vers celle-ci. **L’utilisateur peut alors changer les aiguilles de l’horloge afin de changer de scène.** Chaque heure une nouvelle animation apparaitra. La première heure soulignera le début de l’humanité. Plus l’horloge avancera, plus le décor deviendra sombre et apocalyptique. Le son sera ajusté avec le décor pour bien compléter les animations. Lorsque l’horloge atteindra minuit, une vidéo apparait et il n’est plus possible de revenir en arrière.
 
 #### SCÈNE 4
 - Une vidéo apparait avec une horloge qui défile à toute allure vers minuit. Un message s’affiche ensuite. Une musique de suspense est jouée durant cette scène. 
 
 #### SCÈNE 5
-- Un son de téléphone est entendu. Lorsque l’interacteur prendra le téléphone, un bouton sera relâché et activera la prochaine scène et le narrateur.
+- Un son de téléphone est entendu. Lorsque **l’interacteur prendra le téléphone**, un bouton sera relâché et activera la prochaine scène et le narrateur.
 
 #### SCÈNE 6
-- L’utilisateur sera filmé et dupliqué sur les murs qui l’entourent pour donner un sentiment de pression et de stress comme s’il était observé. Cela donne l’impression que l’humanité repose entre les mains du spectateur et montre l’impact personnel que chaque individu possède afin d’améliorer la situation de l’humanité. Une musique inspirante commence à jouer. Un phénomène d’explosion cosmique (« fade au blanc » avec « son whoosh ») est entendu et affiche un fond noir. Les crédits commencent et l’expérience de l’horloge de l’apocalypse est terminée.
+- **L’utilisateur sera filmé et dupliqué sur les murs qui l’entourent pour donner un sentiment de pression et de stress comme s’il était observé.** Cela donne l’impression que l’humanité repose entre les mains du spectateur et montre l’impact personnel que chaque individu possède afin d’améliorer la situation de l’humanité. Une musique inspirante commence à jouer. Un phénomène d’explosion cosmique (« fade au blanc » avec « son whoosh ») est entendu et affiche un fond noir. Les crédits commencent et l’expérience de l’horloge de l’apocalypse est terminée.
 
 
-
-### Univers artistique
->#### Pour plus de détails --> [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1945969_cmontmorency_qc_ca/ERKCSlUJhTFEp-WwGbcpxx0BK9-bCbdidCFUX_tMK-mZ6w?e=4yY9z0)
-- Horloge antique romaine
-- Vieux téléphone à roulette
-- Piédestal (style antiquité romaine)
-
-
-## SCHÉMA DE L'INSTALLATION DE L'OEUVRE
+## SCHÉMA DE PLANTATION
 ![schéma](/medias/schema_horloge_apocalypse.png) 
 
 
-
+## COURS INDISPENSABLES
 
 
 
