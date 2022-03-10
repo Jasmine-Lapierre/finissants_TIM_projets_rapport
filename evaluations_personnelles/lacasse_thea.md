@@ -11,11 +11,12 @@ Je suis une personne qui fait beaucoup d'anxiété en général et quand j'ai lu
 ### 3. Jeu temporel
 J'aime beaucoup le principe de mettre nos connaissances sur l'environnement en valeurs, faire littéralement participer l'interacteur avec lesquelles ses réponses vont varier le jeu, donc celui-ci va être différent à chaque fois. Le fait que la personne ne doit pas juste touché à un objet qui va déclencher quelque chose en répétition, rend le tout unique et différent de ce qu'on connait. La curiosité et le questionnement va définitivement être au rendez-vous dù au «glitch» et à la façon dont au fur et à mesure des réponses l'ambiance va changer et tourné dans un côté plus sombre. Ce côté-ci représente les conséquences de l'environnement si nous ne faisons pas attention au plus vite à notre planète.
 
-### 4. Chère Sasha 
+### 4. Distorsion Collective
+J'aime l'idée de la condition mentale par rapport aux cours en ligne. Le sujet du Covid est un peu redondant, mais le fait de créer un projet sur comment les cours en ligne et la surdose de travail ont affecter notre santé mentale. Je suis sur que beaucoup de gens ont souffert à cause de ceci et je trouve que c'est intéressant le fait qu'on se reprojète dans cette période et qu'on expérience ces sensations réelles qui nous feront réfléchire. 
+
+### 5. Chère Sasha 
 J'aime l'idée de montrée les deux côtés d'une personne (Sasha) vivant avec de la dépression/qui se cherche et cette personne même, mais sans dépression et questionnement. Je trouve ça original que ce soit représenté avec sa chambre et des petits objets interactifs, cependant, je pense que ça aurait pu être aussi intéressant de voir les deux côtés plus joyeux et plus sombre à travers toute une journée et non seulement représenté par sa chambre. Une personne n'ayant pas nécéssairement la même ou similaire pensé à Sasha peux être curieuse à savoir comment une tel personne se sens durant la journée.
 
-### 5. Distorsion Collective
->giid
 
 ### 6. 3 minutes
 Personnellement, pour commencer, je n'aime pas être enfermée et je crois qu'une grande majorité est de mon avis. Je comprend totallement l'idée d'être dans la peau d'une personne se faisant intimidé, mais je crois que ce qui m'attire moins c'est l'ambiance du gymnase, de l'école et de devoirs jouer au ballon chasseur. Le fait qu'on se fait «obliger» à jouer au jeu et de se faire enfermer en guise de vivre l'expérience «réel» et complète n'est pas quelque chose qui me donne envis d'aller voir l'oeuvre. Je pense que plusieurs personnes vont beaucoup aimés le principe et l'originalité du projet, mais pour ceux au contraire qui aurait déjà vécu une tel situation va peut-être être mal à l'aise de revivre cette expérience voir refuser de la faire totalement.
