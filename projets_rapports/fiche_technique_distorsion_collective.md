@@ -26,19 +26,47 @@ Le projet a plutôt l'air d'une oeuvre contemplative oû la seule interraction q
 
 
 ## Liste des composantes multimédia à réaliser ou à trouver
+- 2 interfaces utilisateurs
 
+- 6 vidéos d'animation 2D (cartoon)
 
+- À peu près 30 models 3D
+
+- 15 textures 
+
+- À peu près 10 sons
+
+[Pour plus de détails](https://cmontmorency365.sharepoint.com/:x:/r/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/doc2.aspx?action=edit&sourcedoc=%7B8D242B82-E599-49CF-BE4C-EA9539D2D1C3%7D)
 ## Matériel de scénographie requis
 
 
 ## ÉQUIPEMENT REQUIS
 #### AUDIO
 
+- 2 haut-parleurs actifs de 4"
+
+- 2 fils XLR 3 conducteurs de 15' (M->F)
+
+- Interface audio USB disposant 2 sorties
 #### VIDÉO
+- 1 projecteur vidéo grand angle
+
+- 1 système d'accrochage
+
+- 1 kinect
+
+- 1 Extender HDMI
 
 #### LUMIÈRE
+- 3 lumière LED RGBAW DMX
 
+- 3 fils XLR 3 conducteurs de 20'
 
+#### AUTRES
+- 2 cordon IEC (pour l'alimentation des haut-parleurs)
+- 4 câbles Ethernet
+- 1 ordinateur portable (performant)
+- Casque VR Oculus
 
 ## SCHÉMA DE PLANTATION
 ![PLANTATION](/medias/distorsion_temporelle_plantation.png)
