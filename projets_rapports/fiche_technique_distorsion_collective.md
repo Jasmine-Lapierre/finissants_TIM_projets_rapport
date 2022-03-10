@@ -25,7 +25,7 @@ Le projet a plutôt l'air d'une oeuvre contemplative oû la seule interraction q
 À la fin de l'interaction, l'interracteur est invité à recommencer. C'est une invitaiton symbolique qui laisse comprendre à l'interacteur que les étudiants qui ont vécu l'école en ligne ont souvent eu des moments ou ils croyaient que la covid allait finir, mais quelle ne faisait que revenir comme au tout début (un peu comme retourner dans le temps à chaque année).
 
 
-## Liste des composantes multimédia à réaliser ou à trouver
+## Liste des composantes multimédia
 - 2 interfaces utilisateurs
 
 - 6 vidéos d'animation 2D (cartoon)
@@ -38,7 +38,8 @@ Le projet a plutôt l'air d'une oeuvre contemplative oû la seule interraction q
 
 [Pour plus de détails](https://cmontmorency365.sharepoint.com/:x:/r/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/doc2.aspx?action=edit&sourcedoc=%7B8D242B82-E599-49CF-BE4C-EA9539D2D1C3%7D)
 ## Matériel de scénographie requis
-
+- Bureau
+- Chaise de bureau
 
 ## ÉQUIPEMENT REQUIS
 #### AUDIO
