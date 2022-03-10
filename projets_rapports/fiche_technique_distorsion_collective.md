@@ -17,57 +17,14 @@ Enfin, des témoignages/articles de journaux sont visibles sur les murs pour sen
 
 ## VUE DE L'ENSEMBLE DU PROJET
 
-Les differents "bugs" qui se produisent, comme le professeur qui parle une autre langue et qui est à l'envers, ainsi que les toasts qui devienent des devoirs rendent l'ambiance plutôt bizarre et effrayante. Cette ambiance est amplifiée par le fait que l'interacteur le vie à la première personne avec un casque de VR.
+### Ambiance du projet
+Les differents "bugs" qui se produisent lorsque l'élève , comme le professeur qui parle une autre langue et qui est à l'envers, ainsi que les toasts qui devienent des devoirs rendent l'ambiance plutôt bizarre et effrayante. Cette ambiance est amplifiée par le fait que l'interacteur le vie à la première personne avec un casque de VR.
 
-#### INTERACTION AVEC LE PROJET
+### Interaction de l'utilisateur
 Le projet a plutôt l'air d'une oeuvre contemplative oû la seule interraction que l'interracteur peut faire est d'arrêter la réalité virtuelle en appuyant sur un bouton de deconnexion sur l'écran d'ordinateur dans la réalité virtuelle.
-#### FIN DE L'INTERACTION
+
 À la fin de l'interaction, l'interracteur est invité à recommencer. C'est une invitaiton symbolique qui laisse comprendre à l'interacteur que les étudiants qui ont vécu l'école en ligne ont souvent eu des moments ou ils croyaient que la covid allait finir, mais quelle ne faisait que revenir comme au tout début (un peu comme retourner dans le temps à chaque année).
 
-
-## Liste des composantes multimédia
-- 2 interfaces utilisateurs
-
-- 6 vidéos d'animation 2D (cartoon)
-
-- À peu près 30 models 3D
-
-- 15 textures 
-
-- À peu près 10 sons
-
-[Pour plus de détails](https://cmontmorency365.sharepoint.com/:x:/r/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/doc2.aspx?action=edit&sourcedoc=%7B8D242B82-E599-49CF-BE4C-EA9539D2D1C3%7D)
-## Matériel de scénographie requis
-- Bureau
-- Chaise de bureau
-
-## ÉQUIPEMENT REQUIS
-#### AUDIO
-
-- 2 haut-parleurs actifs de 4"
-
-- 2 fils XLR 3 conducteurs de 15' (M->F)
-
-- Interface audio USB disposant 2 sorties
-#### VIDÉO
-- 1 projecteur vidéo grand angle
-
-- 1 système d'accrochage
-
-- 1 kinect
-
-- 1 Extender HDMI
-
-#### LUMIÈRE
-- 3 lumière LED RGBAW DMX
-
-- 3 fils XLR 3 conducteurs de 20'
-
-#### AUTRES
-- 2 cordon IEC (pour l'alimentation des haut-parleurs)
-- 4 câbles Ethernet
-- 1 ordinateur portable (performant)
-- Casque VR Oculus
 
 ## SCHÉMA DE PLANTATION
 ![PLANTATION](/medias/distorsion_temporelle_plantation.png)
