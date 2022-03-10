@@ -25,11 +25,11 @@ L'ambiance du côté adolescent est sombre et triste, alors que celle de l'adult
 #### INTERACTION AVEC LE PROJET
 Dans la chambre, il y a plusieurs objets avec lesquels les interacteurs peuvent interagir. 
 
-Le premier est le téléphone. Lorsque le téléphone sonne, l'interacteur peut choisir de repondre ou de ne rien faire, ce qui change l'évènement qui se produit.
+- Le premier est le téléphone. Lorsque le téléphone sonne, l'interacteur peut choisir de repondre ou de ne rien faire, ce qui change l'évènement qui se produit.
 
-Il y a aussi une boite d'oü vient un bruit. Pour continuer l'histoire, l'interacteur doit ouvrir la boite.
+- Il y a aussi une boite d'oü vient un bruit. Pour continuer l'histoire, l'interacteur doit ouvrir la boite.
 
-Au fil des scène, l'interacteur est incité à toucher, lire et regarder des objets essentiels à la compréhension de l'histoire, mais intéragir avec ces objets ne change pas les évènements qui se produisent.
+- Au fil des scène, l'interacteur est incité à toucher, lire et regarder des objets essentiels à la compréhension de l'histoire, mais intéragir avec ces objets ne change pas les évènements qui se produisent.
 
 #### FIN DE L'INTERACTION
 À la fin de l'interaction, l'interacteur peut choisir de laisser un message d'encouragement à Sasha en utilisant un ordinateur.
@@ -191,10 +191,10 @@ Dimmer pack DMX - 4 out
 ## SCHÉMA DE PLANTATION
 ![PLANTATION](/medias/chere_sasha_plantation.jpg)
 ## COURS INDISPENSABLES
-1- Le cours de Documentation d'oeuvres multimédia. Afin de documenter toutes les étapes du projet, l'équipe utilise Github qui est un outils qu'on apprend à utiliser en cours de Documentation d'oeuvres multimédia. Sans ces connaissances, les étudiants auraient de la difficulté à garder une hiérarchie des dossiers et une nomenclature ordonnée et compréhensible.
+1. Le cours de Documentation d'oeuvres multimédia. Afin de documenter toutes les étapes du projet, l'équipe utilise Github qui est un outils qu'on apprend à utiliser en cours de Documentation d'oeuvres multimédia. Sans ces connaissances, les étudiants auraient de la difficulté à garder une hiérarchie des dossiers et une nomenclature ordonnée et compréhensible.
 
-2- Le cours de Conception sonore. Ce projet contient 30 éléments sonores à réaliser. Afin d'avoir une ambiance sonore qui se tient, je crois que c'est important de suivre ce cours. Dans ce cours, les étudiants voient, par exemple, comment traiter une bande sonore.
+2. Le cours de Conception sonore. Ce projet contient 30 éléments sonores à réaliser. Afin d'avoir une ambiance sonore qui se tient, c'est important de suivre ce cours. Dans ce cours, les étudiants voient, par exemple, comment traiter une bande sonore.
 
-3- Le cours de Conception vidéo. Ce projet contient 3 vidéos à réaliser. Mes cours m'ont fait comprendre que créer une vidéo qui semble professionnelle est beaucoup plus compliqué que ce que je croyais, alors je crois qu'avoir suivi ce cours les a beaucoup aidé lors de la création de ces vidéos.
+3. Le cours de Conception vidéo. Ce projet contient 3 vidéos à réaliser. Mes cours m'ont fait comprendre que créer une vidéo qui semble professionnelle est beaucoup plus compliqué que ce que je croyais, alors avoir suivi ce cours les a beaucoup aidé lors de la création de ces vidéos.
 
 
