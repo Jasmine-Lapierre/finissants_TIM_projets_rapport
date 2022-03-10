@@ -4,37 +4,47 @@
 
 
 ## RÉSUMÉ DU PROJET 
->#### Ces textes sont tirés du site web des projets des finissants TIM 2022 - [Chronofrage](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
-L'oeuvre prends la forme d'un musée. Le participant rentre dans l'univers en marchant sur un tapis. Devant lui se trouve 4 grands tableaux immobiles et quelques petits tableaux. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime et intéragit selon la position ou bien les mouvements de l'interacteur.
-
-Ils souhaitent sensibiliser la génération actuelle sur les conséquences écologiques de nos actions pour le futur. "Nous voulons également que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement et susciter son action. Une personne est invité à faire une expérience intéractive sur le sujet de l'environnement et changements climatique. Cette personne entre dans le jeu télévisé fictif Jeu Temporel pour montrer son talent, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse." disent t'ils.
+>#### Ces textes sont tirés du site web des projets des finissants TIM 2022 et leurs Github - [3 minutes](https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html) [Github](https://github.com/tim-montmorency/66B-modele_de_projet) 
 
 ### Intention de départ
-Nous souhaitons sensibiliser la génération actuelle sur les conséquences écologiques de nos actions pour le futur. Nous voulons également que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement et susciter son action.
+À travers le temps, sensibiliser la personne à l'intimidation en lui faissant passer du bon temps, suivi par du mauvais temps. Immersion dans la peau d’une personne ne vivant aucune intimidation, jouant dans un gymnase au ballon chasseur vs dans la peau d’un enfant intimidé et enfermé dans un casier. Ce projet, fait vivre a l'utilisateur un sentiments d'impuissance et détresse. Ce qui as pour but de faire comprendre l'importance de ne pas laisser une personne seul dans ce genre de situation. Ainsi, l'utilisateur resent de l'empathie a l'égard des personnes intimidés.
 
 ### Synopsis
-Gustave de la Morenci vous invite à faire part d'une expérience hors du commun, le Jeu Temporel, pour montrer votre talent sur des questions de société et culture général, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un avertissement pour les conséquences futures. Au final, Gustave, venant du future, a élaboré ce questionnaire dans le seul but d'accéléré les changements climatiques et de mettre fin à notre époque. Serez-vous en mesure de ne pas tomber dans son piège ?
+Tu arrive dans une gymnase et tu joue au ballon chasseur tu t'amuse a toucher le plus de personne possible avec le ballon et après le compteur de trois minutes le jeu s'arrête.
+
+Tu es enfermé dans un casier sombre et glacial pour une énième fois cette année le temps te paraît une éternité des rires moqueurs, ta respiration devient de plus en plus insupportable, l'angoisse commence à prendre le dessus 3 minutes devient un long moment interminable.
 
 
 ## VUE DE L'ENSEMBLE DU PROJET
-La curiosité du jeu va pousser le ou les intéracteurs à jouer et participer au questionnaire. Le jeu se transforme pour faire un parallèle avec les changements climatiques rapides qui vont arriver dans les prochaines années (ex: le jeu devient de plus en plus du style 'noir').
-La transformation s'apparente avec une modification tout au long du jeu; changements visibles de l'animateur, questions avec une connotation plus prononcée d'humour noir, animateur visiblement fâché, etc. Ceci a pour effet de changer l'humeur général de la présentation d'un niveau de naïveté, vers du sérieux. La transformation indique aussi une métaphore du changement climatique, que plus le temps avance, plus les changements sont perceptible et tangible.
+Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un tracé de tapis rouge longeant un mur remplis de cadres artistiques, dont quatre gigantesques cadres qui sont projetés sur quatre canvas physique, et quelques petites oeuvres d'art. Le tapis rouge est éclairé tout au long par une faible lumière.
 
 #### AMBIANCE DU PROJET
 Le visuel devant l'expérience serait de montrer en facade de la couleur, une musique agréable, un thème de fête. La personne qui va faire l'expérience va donc avoir des attentes différentes à ce qu'il va vivre durant le jeu. On veut vraiment faire ressentir à l'intéracteur le changment d'ambiance tout au long de l'expérience.
+
 Il va avoir un animateur qui, tout au long de l'expérience, changera d'apparence selon où l'intéracteur est rendu. Il va aussi avoir des 'glitchs' pour renforcer l'idée que l'expérience se transforme.
 
 #### INTERACTION AVEC L'UTILISATEUR
-En débutant le jeu, une nouvelle page s'affiche présentant le questionnaire.
+Lorsque l'utilisateur entre dans la salle, il y a un capteur de type Kinect qui détecte la présence et ouvre une lumière pointant sur un casque de réalité virtuelle placé sur une table. En mettant le casque, une page de règlement et d’explication apparaît et explique les directives à suivre pour le jeu de ballon chasseur: « Le but du jeu est de casser le plus de cibles à l'aide des balles en 3 minutes. Pour vous déplacer, utiliser le manche de la manette gauche. Pour prendre les balles, utiliser les gâchettes des deux manettes et pour les lancers relâcher les gâchettes. » L'ambiance sonore dans le menu et le jeu est entrainante pour donner de l'énergie à l'utilisateur.
 
-Nous allons poser une quinzaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions que l'humour en passant par des décisions moraux.
+Dans ce jeu, il y a un nombre infini de ballons pour toucher les cibles, il faut toucher le plus de cibles possible dans le temps imparties. Il y a aussi des objets avec lesquels nous pouvons interagir dans la scène. Lorsqu'ont lance un ballon sur le casier nous pouvons entendre des pleurs, des gémissements et d'autre bruit qui nous laisse croire qu'il y a quelqu'un dans le casier. Lorsqu'ont lance la balle sur la radio le son diminue. De même pour le panier de basketball si il ya un ballon percute celui-ci il émet un bruit de métal.
 
-Suivant ces questions, l'animateur fera des commentaires envers le participant selon la réponse qu'il ou elle choisit;
+Lorsque le délai de trois minutes est écoulé, un message apparaît: « Bravo, vous avez cassé xx cibles. Enlevez le casque et diriger vous vers le casier ».
+
+Lors de la deuxième activité de l'expérience, nous arrivons dans un couloir exigu et sombre. Une échelle est dans le couloir ce qui rétrécit l'espace accentuant la claustrophobie de l'utilisateur. Arrivé dans la zone prédéfinie, un capteur Kinect allume une deuxième lumière pour laisser place à un casier. Une pancarte sera à proximité de celui-ci pour expliquer qu’il faut entrer dans le casier pour poursuivre l’expérience. L’utilisateur ouvre la porte pour s'enfermer dans le casier pour une durée de 3 minutes. Lors de la fermeture de la porte, un capteur aimanté activera l'expérience qui est plongée dans le noir, la suppression d'un sens augmente les autres. L'utilisateur ressentira l’ambiance sonore du gymnase (ballon qui rebondit, rires moqueurs, cris d'enfants, grincements de souliers et bruits de chaînes de basket) qui sera transposé à l'extérieur du casier. À l'intérieur du casier, il y aura des respirations fortes, des pensées négatives, des pleurs, des cris et des bruits de métal comme si quelqu'un voulait sortir du casier. Le tout pour rendre mal à l'aise l’utilisateur afin d’avoir une expérience plus immersive.
+
+À la fin de l'expérience, un message de fin sera projeté sur le mur le plus proche du casier.
+
+Texte de fin : Vous venez de vivre quelques instants dans la peau d’un enfant coincée dans un casier. Vous avez également passé du temps dans la peau d’un enfant heureux et épanoui. La deuxième partie de l'expérience vous a semblé plus longue? C'était exactement le même temps écoulé. Cette expérience a pour but de sensibiliser sur les actes de l’intimidation à travers le temps. NON À L'INTIMIDATION Tel-jeune : 514-288-2266 Groupe d’Aide aux Personnes Impulsives, ayant des comportements violents Québec: 418-529-3446;
 
 
 
 
 ## SCHÉMA DE PLANTATION
+![schema](/medias/schema_jeu_temporel.png)
 
-## COURS INDISPENSABLEs
+## COURS INDISPENSABLES
+
+1. Introduction à la programmation multimédia
+2. Gestion de projet multimédia
+3. Conception sonore
 
