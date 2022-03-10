@@ -24,10 +24,7 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 
 
 ## SCHÉMA DE PLANTATION
-- 4 vidéos pour les tableaux principaux (1 par membre de l'équipe)
-- 4 effets sonores
-- 1 piste sonore générale
-- 10 petits tableaux secondaires
+![schema_jeu_temporel.png]
 
 ## COURS INDISPENSABLEs
 
