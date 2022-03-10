@@ -191,8 +191,10 @@ Dimmer pack DMX - 4 out
 ## SCHÉMA DE PLANTATION
 ![PLANTATION](/medias/chere_sasha_plantation.jpg)
 ## COURS INDISPENSABLES
-1- Le cours de documentation d'oeuvres multimédia. Afin de documenter toutes les étapes du projet, l'équipe utilise Github qui est un outils qu'on apprend à utiliser en cours de Documentation d'oeuvres multimédia. Sans ces connaissances, les étudiants auraient de la difficulté à garder une hiérarchie des dossiers et une nomenclature ordonnée et compréhensible.
+1- Le cours de Documentation d'oeuvres multimédia. Afin de documenter toutes les étapes du projet, l'équipe utilise Github qui est un outils qu'on apprend à utiliser en cours de Documentation d'oeuvres multimédia. Sans ces connaissances, les étudiants auraient de la difficulté à garder une hiérarchie des dossiers et une nomenclature ordonnée et compréhensible.
+
 2- Le cours de Conception sonore. Ce projet contient 30 éléments sonores à réaliser. Afin d'avoir une ambiance sonore qui se tient, je crois que c'est important de suivre ce cours. Dans ce cours, les étudiants voient, par exemple, comment traiter une bande sonore.
+
 3- Le cours de Conception vidéo. Ce projet contient 3 vidéos à réaliser. Mes cours m'ont fait comprendre que créer une vidéo qui semble professionnelle est beaucoup plus compliqué que ce que je croyais, alors je crois qu'avoir suivi ce cours les a beaucoup aidé lors de la création de ces vidéos.
 
 
