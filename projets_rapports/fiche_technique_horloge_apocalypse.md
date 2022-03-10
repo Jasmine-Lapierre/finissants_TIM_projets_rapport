@@ -56,7 +56,7 @@ Le matériel scénographique utilisés donne une ambiance de l'époque romaine/a
 3. Espace interactif
 
 ## COMPOSANTE TECHNOLOGIQUE QUE NOUS NE CONNAISSIONS PAS
-#### Potentiomètre
+#### POTENTIOMÈTRE
 Dans cette oeuvre, les créateurs ont utilisé un potentiomètre de 360˚ qui sert à transmettre la position en degré de l'aiguille de l'horloge.
 
 
