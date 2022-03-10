@@ -2,10 +2,10 @@
 ## ORDRE DE MES PRÉFÉRENCES
 
 ### 1. L'Horloge de l'Apocalypse
-> fhjhhkk
+Fhjhhkk
 
 ### 2. Chronofrage
->gugu
+Gugu
 
 ### 3. Jeu temporel
 >gyfi
@@ -19,6 +19,8 @@
 ### 6. 3 minutes
 >jhdd
 
-### JUSTIFICATION
+## MON RÔLE DANS LE FUTUR 
 
-# MON RÔLE DANS LE FUTUR 
+## EXPÉRIENCE RESSENTI
+
+
