@@ -7,8 +7,8 @@
 ### Intention de départ
 ### Synopsis
 ## VUE DE L'ENSEMBLE DU PROJET
-#### AMBIANCE DU PROJET
-#### INTERACTION AVEC LE PROJET
+### Ambiance du projet
+### Interaction avec le projet
 ## SCHÉMA DE PLANTATION
 ![SCHÉMA](IMAGE DU SCHÉMA)
 ## COURS INDISPENSABLES
