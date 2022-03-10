@@ -25,7 +25,7 @@ Il va avoir un animateur qui, tout au long de l'expérience, changera d'apparenc
 #### INTERACTION AVEC L'UTILISATEUR
 En débutant le jeu, une nouvelle page s'affiche présentant le questionnaire.
 
-Nous allons poser une quinzaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions que l'humour en passant par des décisions moraux.
+"Nous allons poser une quinzaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions que l'humour en passant par des décisions moraux."
 
 Suivant ces questions, l'animateur fera des commentaires envers le participant selon la réponse qu'il ou elle choisit;
 
