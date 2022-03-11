@@ -26,5 +26,12 @@ Je pense que dans le futur, le rôle que j'aimerais faire est faire partie du co
 Je crois avoir le potentiel pour ces tâches, pusique en multimédia, c'est vraiment la section artistique et sonor que je pense fermement être meilleure dans ces domaines qu'en éclairage, malgré que ce soit un travail d'équipe et qu'il faut participer à tout même à ce qu'on aime pas.
 
 ## EXPÉRIENCE RESSENTI
+### L'Horloge de l'Apocalypse
+- Je m'attends à me faire «transporter» dans un autre monde, à sentir comme si j'étais dans l'époque/période de temps présenter et un peu oublier que je suis seulement dans un local. Je m'attend à être submerjer par la bande sonor relié avec les animations, ils ont tellement de possibilités pour créer une bande sonor unique à chaque temps.
 
+### Chronofrage
+- Je m'attend à ressentir des émotions plus forte et ressentir les émotions de la jeune fille présenté sur le projet. J'ai hâte de voir si je vais être capable d'en sortir plus «zen» et moins stresser à propos du temps. 
+
+### Jeu temporel
+- Je m'attend à une ambiance grandiose et mystérieuse. Ressentir du questionnement et de l'hésiation face à la façon dont l'animateur va changer de comportement. J'ai l'impression aussi que l'effet de «glitch» va rajouter beaucoup à l'oeuvre, va faire en sorte qu'on soit plus crintif à répondre les bonnes réponses et ça va nous faire réaliser à quel point l'environemnet peut dégrader vite, comme l'humeur de l'animateur. 
 
