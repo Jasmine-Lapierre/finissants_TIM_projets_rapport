@@ -19,6 +19,7 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 ## VUE DE L'ENSEMBLE DU PROJET
 ![salle](/medias/horloge_salle.jpg)
 
+
 ### AMBIANCE DU PROJET
 >#### Pour plus de détails --> [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1945969_cmontmorency_qc_ca/ERKCSlUJhTFEp-WwGbcpxx0BK9-bCbdidCFUX_tMK-mZ6w?e=4yY9z0)
 Le matériel scénographique utilisés donne une ambiance de l'époque romaine/antique. Ce matériel va nous plonger dans une ambiance mystérieuse, grandiose et vieillot. 
