@@ -36,6 +36,7 @@ Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un trac
 - Tu ne m'importe plus | Renouveau
 
 ## SCHÉMA DE L'INSTALLATION DE L'OEUVRE
+>#### Ces textes et photos sont tirés du site web des projets des finissants TIM 2022 - [Chronaufrage](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
 ![schéma](/medias/schema_chronofrage.png) 
 
 ## COURS INDISPENSABLES
