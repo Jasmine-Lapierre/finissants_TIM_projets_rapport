@@ -51,7 +51,7 @@ Le matériel scénographique utilisés donne une ambiance de l'époque romaine/a
 
 ## SCHÉMA DE PLANTATION
 >#### Ces textes et photos sont tirés du site web des projets des finissants TIM 2022 - [L'horloge de l'apocalypse](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
-![schéma](/medias/schema_horloge_apocalypse.png) 
+![schéma](/medias/horloge_apocalypse_schema.png) 
 ![projecteur](/medias/horloge_projecteur.jpg)
 
 
