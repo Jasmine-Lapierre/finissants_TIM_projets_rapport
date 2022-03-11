@@ -40,7 +40,8 @@ Texte de fin : Vous venez de vivre quelques instants dans la peau d’un enfant 
 
 
 ## SCHÉMA DE PLANTATION
-![schema](/medias/schema_jeu_temporel.png)
+![schema](/medias/schema_3_minutes.png)
+>#### Image tiré de [Github](https://github.com/tim-montmorency/66B-modele_de_projet) 
 
 ## COURS INDISPENSABLES
 
