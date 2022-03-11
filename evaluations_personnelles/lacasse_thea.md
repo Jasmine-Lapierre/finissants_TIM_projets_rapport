@@ -36,4 +36,10 @@ Je crois avoir le potentiel pour ces tâches, pusique en multimédia, c'est vrai
 - Je m'attend à une ambiance grandiose et mystérieuse. Ressentir du questionnement et de l'hésiation face à la façon dont l'animateur va changer de comportement. J'ai l'impression aussi que l'effet de «glitch» va rajouter beaucoup à l'oeuvre, va faire en sorte qu'on soit plus crintif à répondre les bonnes réponses et ça va nous faire réaliser à quel point l'environemnet peut dégrader vite, comme l'humeur de l'animateur. 
 
 ### Distorsion Collective
-- Je m'attend à ressentir ce que nous avons ressentis lors de la première quarantaine et les premiers cours en lignes. Retournez dans le passé puis revivre la situation qui nous imposait un certain stress et d'incompréhension. J'ai l'impression que les gens vont retourné 
+- Je m'attend à ressentir ce que nous avons ressentis lors de la première quarantaine et les premiers cours en lignes. Retournez dans le passé puis revivre la situation qui nous imposait un certain stress et d'incompréhension. JJ'aimerais et j'ai l'impression que plusieurs personnes vont comprendre mieux comment certaine personnes vivait cette période et à quel point elle a affecter la mentalité de plusieurs.
+
+### Chère Sasha 
+- Je m'attend à être mise dans la peau de Sasha et de vraiment savoir en gros ce qu'une personne comme elle vit. Je suis curieuse à savoir comment le décor et l'ambiance va être. Dans le rapport de Chère Sasha on parle d'une chambre et des objets interectifs et j'ai hâte de voir comment avec les objets nous allons pouvoir se mettre à la place de Sasha.
+
+### 3 minutes
+- Je m'attend à vraiment vivre une expérience assez unique avec la réalité virtuelle et le casier. Je m'attend à ce que le casier soit quand même assez large pour que la majorité des gens puissent y rentrer. Je pense que je vais ressentir de l'anxiété et un sentiment de solitude enfermée dans le casier. J'ai hâte de pouvoir affirmer si j'ai trouvé que le 3 minutes dans le casier parraissait oui ou non plus long que le même temps de jeu.
