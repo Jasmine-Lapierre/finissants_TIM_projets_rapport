@@ -16,7 +16,8 @@ Tu es enfermé dans un casier sombre et glacial pour une énième fois cette ann
 
 
 ## VUE DE L'ENSEMBLE DU PROJET
-
+![schema](/medias/vue_ensemble_3_min.png)
+>#### Image tiré de [Github](https://github.com/tim-montmorency/66B-modele_de_projet) 
 
 #### AMBIANCE DU PROJET
 Le visuel devant l'expérience serait de montrer en facade de la couleur, une musique agréable, un thème de fête. La personne qui va faire l'expérience va donc avoir des attentes différentes à ce qu'il va vivre durant le jeu. On veut vraiment faire ressentir à l'intéracteur le changment d'ambiance tout au long de l'expérience.
@@ -45,7 +46,7 @@ Texte de fin : Vous venez de vivre quelques instants dans la peau d’un enfant 
 
 ## COURS INDISPENSABLES
 
-1. 
-2. 
+1. Espace interactif
+2. Réalité virtuelle 
 3. Conception sonore
 
