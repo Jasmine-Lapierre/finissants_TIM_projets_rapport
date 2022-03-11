@@ -16,7 +16,7 @@ Tu es enfermé dans un casier sombre et glacial pour une énième fois cette ann
 
 
 ## VUE DE L'ENSEMBLE DU PROJET
-Au loin, l'interacteur voit une scène semblable à un musée, ou il y a un tracé de tapis rouge longeant un mur remplis de cadres artistiques, dont quatre gigantesques cadres qui sont projetés sur quatre canvas physique, et quelques petites oeuvres d'art. Le tapis rouge est éclairé tout au long par une faible lumière.
+
 
 #### AMBIANCE DU PROJET
 Le visuel devant l'expérience serait de montrer en facade de la couleur, une musique agréable, un thème de fête. La personne qui va faire l'expérience va donc avoir des attentes différentes à ce qu'il va vivre durant le jeu. On veut vraiment faire ressentir à l'intéracteur le changment d'ambiance tout au long de l'expérience.
@@ -45,7 +45,7 @@ Texte de fin : Vous venez de vivre quelques instants dans la peau d’un enfant 
 
 ## COURS INDISPENSABLES
 
-1. Introduction à la programmation multimédia
-2. Gestion de projet multimédia
+1. 
+2. 
 3. Conception sonore
 
