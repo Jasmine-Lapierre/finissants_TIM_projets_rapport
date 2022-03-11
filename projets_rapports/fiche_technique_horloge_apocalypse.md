@@ -18,6 +18,7 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 
 ## VUE DE L'ENSEMBLE DU PROJET
 ![salle](/medias/horloge_salle.jpg)
+![projection](/medias/horloge_projection.jpg)
 
 
 ### AMBIANCE DU PROJET
