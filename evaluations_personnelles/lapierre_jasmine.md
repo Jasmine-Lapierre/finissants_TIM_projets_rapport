@@ -1,5 +1,3 @@
-# Une technique utilisée que je ne connaissais pas
-# Une composante technologique que je ne connaissais pas
 
 # Mes préférences
 ## Ordre de mes préférences
