@@ -16,7 +16,9 @@ Je ne suis pas du tout le publique cible de cette oeuvre. Je déteste répondre 
 La raison pourquoi j'ai mis cette oeuvre en dernière position est que je n'aime pas vraiment la manière dont le concept du temps a été utilisé, je crois comprendre que c'est la manière dont le temps relatif nous semble plus long lorsqu'on passe un mauvais temps, mais c'est une idée qu'on a déjà vu plusieurs fois depuis qu'on est jeune, je vois mal ce que je pourrais apprendre ou réaliser en participant à cette oeuvre. Malgré ça, j'ai hâte de voir l'installation et l'utilisation d'un endroit restreint (le casier). Je trouve cet aspect vraiment original et je crois que si c'est bien fait ça peut completement changer mon avis.
 # Ce que je ressentirai
 ## 1- L'horloge de l'apocalypse
+Cette oeuvre est très contemplative, ce que j'aime bien, car ça me détend de juste avoir à regarder. Ça fait changement de mes 10 000 devoirs à faire. De ce que j'ai eu la chance de voir, les animations sont très belles, mais ce qui m'interesse le plus sont les trames sonores. Les créateurs ont décidé de faire des trames sonores évolutives pour chacunes des scène et elles sont toutes dans un style différent. C'est beaucoup de travail et je crois que je vais vraiment ressentir toutes les emotions differentes selon les scènes s'ils réussissent à bien les composer. Je crois aussi que le téléphone qui va sonner va me faire sursauter parce que je vais l'avoir oublié.
 ## 2- Chère Sasha
+Vu que je n'aime pas entendre des gens fâchés pour des raisons personnelles, je crois que la voix du père va me déranger.
 ## 3- Chronaufrage
 ## 4- Distorsion collective
 ## 5- Jeu temporel 
