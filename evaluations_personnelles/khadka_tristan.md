@@ -2,6 +2,7 @@
 ## ORDRE DE MES PRÉFÉRENCES
 
 ### 1. L'Horloge de l'Apocalypse
+J'ai beaucoup aimé leurs concepts, très orginial et bien pensé. Je trouve que l'histoire est cooérente et j'aime le message passé a travers ce projet. J'ai adoré leurs facon d'intéragir avec l'interacteur grace a une éguille d'horloge. 
 
 ### 2. Chronofrage
 
@@ -17,7 +18,6 @@
 
 
 ## MON RÔLE DANS LE FUTUR 
-Je pense que dans le futur, le rôle que j'aimerais faire est faire partie du commité de communication, faire la coordination artistique et la création de bandes sonor.
-Je crois avoir le potentiel pour ces tâches, pusique en multimédia, c'est vraiment la section artistique et sonor que je pense fermement être meilleure dans ces domaines qu'en éclairage, malgré que ce soit un travail d'équipe et qu'il faut participer à tout même à ce qu'on aime pas.
+Lorsque je ferai ce projet dans le futur, j'espère pouvoir m'occuper de la conception artistique, car j'ai beaucoup d'idée et je suis très creatif. J'espère donc pouvoir organiser les idées du projet. J'ai aussi un bon esprit d'équipe ce pourquoi je pense que cette qualité me pourrait etre utile.
 
 ## EXPÉRIENCE RESSENTI
