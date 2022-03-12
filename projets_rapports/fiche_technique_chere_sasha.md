@@ -14,6 +14,9 @@
 
 
 ## VUE DE L'ENSEMBLE DU PROJET
+![INSTALLATION](/medias/chere_sasha_installation.jpg)
+>image provenant du [GitHub]()
+
 ![PLAN](/medias/chere_sasha_plan.jpg)
 >image provenant d'un document que j'ai photographié
 
@@ -23,6 +26,9 @@ Le but de cet oeuvre est de faire prendre conscience à l'interacteur que les de
 Chaque partie a une ambiance differente soulignée par une traque sonore differente (côté ado: nuit en ville, bruit du cellulaire, des reniflements. Côté adulte: discution amicale lointaine, radio, bruit de ville en matinée). 
 
 L'ambiance du côté adolescent est sombre et triste, alors que celle de l'adulte est plus joyeuse et fait comprendre à l'interacteur qu'il y a un effet de renouveau et que la situation de Sasha a changée au fil du temps.
+
+À plusieurs moments, des vidéos sont projetées au mur.
+![PROJECTION](/medias/chere_sasha_projecteur.jpg)
 #### INTERACTION AVEC LE PROJET
 Dans la chambre, il y a plusieurs objets avec lesquels les interacteurs peuvent interagir. 
 
