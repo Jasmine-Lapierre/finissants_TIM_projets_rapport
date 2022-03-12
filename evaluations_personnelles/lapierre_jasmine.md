@@ -18,11 +18,15 @@ La raison pourquoi j'ai mis cette oeuvre en dernière position est que je n'aime
 ## 1- L'horloge de l'apocalypse
 Cette oeuvre est très contemplative, ce que j'aime bien, car ça me détend de juste avoir à regarder. Ça fait changement de mes 10 000 devoirs à faire. De ce que j'ai eu la chance de voir, les animations sont très belles, mais ce qui m'interesse le plus sont les trames sonores. Les créateurs ont décidé de faire des trames sonores évolutives pour chacunes des scène et elles sont toutes dans un style différent. C'est beaucoup de travail et je crois que je vais vraiment ressentir toutes les emotions differentes selon les scènes s'ils réussissent à bien les composer. Je crois aussi que le téléphone qui va sonner va me faire sursauter parce que je vais l'avoir oublié.
 ## 2- Chère Sasha
-Vu que je n'aime pas entendre des gens fâchés pour des raisons personnelles, je crois que la voix du père va me déranger.
+Vu que je n'aime pas entendre des gens fâchés pour des raisons personnelles, je crois que la voix du père va me perturber (si elle est convaincante). Vu que je connais déjà l'histoire, je ne vais pas réaliser quoique ce soit en expérimentant l'installation, mais je crois quand même qu'elle va me toucher, car le sujet qu'elle traite résonne avec moi.
 ## 3- Chronaufrage
+Je connais un peu moins l'histoire de cette oeuvre, alors je crois que je vais mieux la ressentir que les autres. Je sais qu'il y a des animations qui changent quand on bouge devant l'oeuvre, mais je ne sais pas ce qui change. Je crois que je vais vraiment m'investir dans cette oeuvre pour essayer de comprendre ce qu'il se passe et que je vais ressentir de l'empathie envers le personnage aux cheveux blancs.
 ## 4- Distorsion collective
+J'ai vécu les classes en ligne, alors c'est quelque chose qui m'a touché presque de la même manière que les créateurs. J'ai vécu le stress et l'impression de détachement qui vient avec le virtuel, alors je crois que je vais ressentir ce que je ressentais dans ce temps là
 ## 5- Jeu temporel 
+Je crois que le jeu va me faire rire, car ça reste un jeu télévisé et lorsqu'un groupe de personnes répondent à des questions, ça emmene souvent des blagues. Aussi, les gens vont sûrement essayer en boucle l'installation pour gagner et ça risque de devenir un défis. Lorsque je vais l'essayer, je crois que je vais paniquer, car les questions deviennent de plus en plus vite et je ne vais pas savoir quoi répondre.
 ## 6- 3 minutes
+Je ne crois pas que je vais expérimenter cette oeuvre, car j'ai peur des endroits restreints, mais si je le faisais je me sentirais exactement comme quelqu'un enfermé dans un casier : mal. Toutefois, la partie en vr a l'air amusante et j'aimerais assurément y jouer.
 
 # Mon rôle dans le futur
 Lorsque je ferai ce projet de synthèse j'espere pouvoir m'occuper de la programmation, car je n'ai pas d'esprit artistique et ce n'est vraiment pas ce qui me motive. J'aimerais aussi m'occuper de la gestion de l'équipe, car je veux vraiment avoir une bonne note et la meilleure maniere d'avoir une bonne note c'est de s'assurer que tout se passe comme prévu et sans retard.
