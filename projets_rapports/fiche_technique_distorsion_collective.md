@@ -17,6 +17,7 @@ Enfin, des témoignages/articles de journaux sont visibles sur les murs pour sen
 
 ## VUE DE L'ENSEMBLE DU PROJET
 ![INSTALLATION](/medias/distorsion_collective_installation.jpg)
+>Photo que nous avons prise lors de la visite
 De loin, l'interacteur peut voir une projection sur le mur ainsi qu'un casque VR, une chaise et un bureau.
 ### Ambiance du projet
 Les différents "bugs" qui se produisent lorsque l'élève devient anxieux  comme le professeur qui parle une autre langue et qui est à l'envers ainsi que les toasts qui deviennent des devoirs rendent l'ambiance plutôt bizarre et effrayante. Cette ambiance est amplifiée par le fait que l'interacteur le vie à la première personne avec un casque de VR.
@@ -29,6 +30,7 @@ Le projet a plutôt l'air d'une œuvre contemplative où la seule interaction qu
 
 ## SCHÉMA DE PLANTATION
 ![PLANTATION](/medias/distorsion_collective_schema.png)
+>Schéma provenant de le site web de [Distorsion Collective](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html)
 ## COURS INDISPENSABLES
 1- Réalité virtuelle. Ce projet est un projet de réalité virtuelle, alors savoir comment réaliser une expérience de réalité virtuelle est indispensable. 
 
