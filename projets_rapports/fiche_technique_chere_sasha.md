@@ -8,10 +8,11 @@
 
 ### Intention de départ
 «Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourée de parents qui ne supporte pas leur enfant peut **changer au fil du temps**. Aussi, on veux exposer comment un conflit intergénérationnel influence la vie d'une personne.»
+>texte provenant du [site web de préproduction](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/preproduction.html)
 
 ### Synopsis
 «Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant.»
-
+>texte provenant du [site web de préproduction](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/preproduction.html)
 
 ## VUE DE L'ENSEMBLE DU PROJET
 ![INSTALLATION](/medias/chere_sasha_installation.jpg)
