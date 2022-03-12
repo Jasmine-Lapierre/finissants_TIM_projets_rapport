@@ -1,3 +1,5 @@
+
+
 # L'horloge de l'apocalypse
 ### *PROJET FINISSANT TIM 2022*
 >#### *Maxime Sabourin, Louis-Philippe Gravel, Maxime De Falco,Tristan Girard-Montpetit, Alexis Lacasse* 
@@ -8,10 +10,10 @@
 L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Selon le concept de l’horloge, il est présentement 11 h 58 et il reste 2 minutes avant la fin de l’humanité. À travers ce projet, l’interacteur est invité à contrôler l’horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. Au cours de l’expérience, vous pourrez vivre les différentes époques auxquelles la terre a été exposée. Vous serez exposé aux différents enjeux actuels à travers la projection qui vous entourera et par le fait même vous plongera dans une immersion totale.
 
 ### Intention de départ
-Ce projet représente l'impact collectif sur les événements socio-politiques et environnementaux qui se produisent tout au long du temps de l'humanité. Nous abordons ce sujet à travers le concept de l'horloge de l'apocalypse. Selon ce concept, il est présentement 23h58 et la fin du monde est à 24h00.
+Ce projet représente l'impact collectif sur les évènements sociopolitiques et environnementaux qui se produisent tout au long du temps de l'humanité. Nous abordons ce sujet à travers le concept de l'horloge de l'apocalypse. Selon ce concept, il est présentement 23h58 et la fin du monde est à 24h00.
 
 ### Synopsis
-L'interacteur arrive dans une salle, il a la possibillité de jouer avec les aiguilles de l'horloge pour faire avancer ou reculer le temps et ainsi constater les changements négatifs et qu'il est temps d'agir.
+L'interacteur arrive dans une salle, il a la possibilité de jouer avec les aiguilles de l'horloge pour faire avancer ou reculer le temps et ainsi constater les changements négatifs et qu'il est temps d'agir.
 
 Le public est appelé à se rendre compte du peu de temps qu'il reste à l'humanité selon l'horloge de l'apocalypse.
 
@@ -23,7 +25,7 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 
 ### AMBIANCE DU PROJET
 >#### Pour plus de détails --> [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1945969_cmontmorency_qc_ca/ERKCSlUJhTFEp-WwGbcpxx0BK9-bCbdidCFUX_tMK-mZ6w?e=4yY9z0)
-Le matériel scénographique utilisés donne une ambiance de l'époque romaine/antique. Ce matériel va nous plonger dans une ambiance mystérieuse, grandiose et vieillot. 
+Le matériel scénographique utilisé donne une ambiance de l'époque romaine/antique. Ce matériel va nous plonger dans une ambiance mystérieuse, grandiose et vieillot. 
 
 ### INTERACTION AVEC L'UTILISATEUR
 #### SCÈNE 1
@@ -62,7 +64,7 @@ Le matériel scénographique utilisés donne une ambiance de l'époque romaine/a
 
 ## COMPOSANTE TECHNOLOGIQUE QUE NOUS NE CONNAISSIONS PAS
 #### POTENTIOMÈTRE
-Dans cette oeuvre, les créateurs ont utilisé un potentiomètre de 360˚ qui sert à transmettre la position en degré de l'aiguille de l'horloge.
+Dans cette œuvre, les créateurs ont utilisé un potentiomètre de 360˚ qui sert à transmettre la position en degré de l'aiguille de l'horloge.
 ![potentiometre](/medias/potentiometre.jpg)
 > photo prise par [IAIN FERGUSSON](https://iainisbald.wordpress.com/)
 
@@ -78,10 +80,10 @@ Les créateurs avaient besoin de cette information pour changer la scène selon 
 ## TECHNIQUE QUE NOUS NE CONNAISSIONS PAS
 #### Utiliser une kinect pour détecter le mouvement et ainsi pouvoir faire allumer une lumière
 ![kinect](/medias/kinect.jpg)
->image fournie par microsoft, [lien](https://m.media-amazon.com/images/I/61eGIYEEEBL._SL1500_.jpg)
-Dans cette oeuvre, les créateurs devaient trouver une manière d'allumer une lumière lorsqu'un intéracteur entre dans la pièce.
+>image fournie par Microsoft [lien](https://m.media-amazon.com/images/I/61eGIYEEEBL._SL1500_.jpg)
+Dans cette œuvre, les créateurs devaient trouver une manière d'allumer une lumière lorsqu'un intéracteur entre dans la pièce.
 
 ![raspberry pi](/medias/raspberry_pi.jpg)
 >image trouvée sur wikipedia, téléversée par Laserlicht [ici](https://commons.wikimedia.org/wiki/File:Raspberry_Pi_4_Model_B_-_Side.jpg)
-Pour se faire ils ont utilisé une kinect pour détecter un mouvement, puis l'information était transmise à un raspberry pi qui lui même envoyait l'information au logiciel max. Rendu dans le logiciel, il est possible de causer des évènements lorsque certaines informations sont reçues. Alors, lorsque la kinect détecte quelqu'un, le logiciel max recoit l'informaiton, puis il dit à la lumière de souvrir.
+Pour se faire ils ont utilisé une kinect pour détecter un mouvement, puis l'information était transmise à un raspberry pi qui lui-même envoyait l'information au logiciel max. Rendu dans le logiciel, il est possible de causer des évènements lorsque certaines informations sont reçues. Alors, lorsque la kinect détecte quelqu'un, le logiciel max reçoit l'information, puis il dit à la lumière de s'ouvrir.
 
