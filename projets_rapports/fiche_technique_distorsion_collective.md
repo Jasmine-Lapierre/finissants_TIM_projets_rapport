@@ -27,7 +27,7 @@ Le projet a plutôt l'air d'une oeuvre contemplative oû la seule interraction q
 
 
 ## SCHÉMA DE PLANTATION
-![PLANTATION](/medias/distorsion_collective_plantation.png)
+![PLANTATION](/medias/distorsion_collective_schema.png)
 ## COURS INDISPENSABLES
 1- Réalité virtuelle. Ce projet est un projet de réalité virtuelle, alors savoir comment réaliser une expérience de réalité virtuelle est indispensable. 
 
