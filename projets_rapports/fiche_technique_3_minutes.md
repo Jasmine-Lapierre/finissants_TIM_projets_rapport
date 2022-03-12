@@ -35,13 +35,17 @@ Lors de la deuxième activité de l'expérience, nous arrivons dans un couloir e
 
 À la fin de l'expérience, un message de fin sera projeté sur le mur le plus proche du casier.
 
-Texte de fin : Vous venez de vivre quelques instants dans la peau d’un enfant coincée dans un casier. Vous avez également passé du temps dans la peau d’un enfant heureux et épanoui. La deuxième partie de l'expérience vous a semblé plus longue? C'était exactement le même temps écoulé. Cette expérience a pour but de sensibiliser sur les actes de l’intimidation à travers le temps. NON À L'INTIMIDATION Tel-jeune : 514-288-2266 Groupe d’Aide aux Personnes Impulsives, ayant des comportements violents Québec: 418-529-3446;
+Texte de fin : Vous venez de vivre quelques instants dans la peau d’un enfant coincée dans un casier. Vous avez également passé du temps dans la peau d’un enfant heureux et épanoui. La deuxième partie de l'expérience vous a semblé plus longue? C'était exactement le même temps écoulé. Cette expérience a pour but de sensibiliser sur les actes de l’intimidation à travers le temps. NON À L'INTIMIDATION Tel-jeune : 514-288-2266 Groupe d’Aide aux Personnes Impulsives, ayant des comportements violents Québec: 418-529-3446.
 
 
 
 
 ## SCHÉMA DE PLANTATION
-![schema](/medias/schema_3_minutes.png)
+![schema](/medias/schema_3_minutes_fond_blanc.png)
+>#### Image tiré de [Github](https://github.com/tim-montmorency/66B-modele_de_projet) 
+![schema](/medias/casier_3_minutes.png)
+>#### Image tiré de [Github](https://github.com/tim-montmorency/66B-modele_de_projet) 
+![schema](/medias/systeme_son_3_minutes.png)
 >#### Image tiré de [Github](https://github.com/tim-montmorency/66B-modele_de_projet) 
 
 ## COURS INDISPENSABLES
