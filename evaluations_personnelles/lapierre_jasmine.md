@@ -15,5 +15,12 @@ Je ne suis pas du tout le publique cible de cette oeuvre. Je déteste répondre 
 ## 6- 3 minutes
 La raison pourquoi j'ai mis cette oeuvre en dernière position est que je n'aime pas vraiment la manière dont le concept du temps a été utilisé, je crois comprendre que c'est la manière dont le temps relatif nous semble plus long lorsqu'on passe un mauvais temps, mais c'est une idée qu'on a déjà vu plusieurs fois depuis qu'on est jeune, je vois mal ce que je pourrais apprendre ou réaliser en participant à cette oeuvre. Malgré ça, j'ai hâte de voir l'installation et l'utilisation d'un endroit restreint (le casier). Je trouve cet aspect vraiment original et je crois que si c'est bien fait ça peut completement changer mon avis.
 # Ce que je ressentirai
+## 1- L'horloge de l'Apocalypse
+
+## 2- Chère Sasha
+## 3- Chronaufrage
+## 4- Distorsion Collective
+## 5- Jeu temporel 
+## 6- 3 minutes
 
 # Mon rôle dans le futur
