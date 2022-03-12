@@ -19,9 +19,6 @@ Je ne suis pas du tout le public cible de cette œuvre. Je déteste répondre à
 ## 6- 3 minutes
 La raison pourquoi j'ai mis cette œuvre en dernière position est que je n'aime pas vraiment la manière dont le concept du temps a été utilisé, je crois comprendre que c'est la manière dont le temps relatif nous semble plus long lorsqu'on passe un mauvais temps, mais c'est une idée qu'on a déjà vue plusieurs fois depuis qu'on est jeune, je vois mal ce que je pourrais apprendre ou réaliser en participant à cette œuvre. Malgré ça, j'ai hâte de voir l'installation et l'utilisation d'un endroit restreint (le casier). Je trouve cet aspect vraiment original et je crois que si c'est bien fait ça peut complètement changer mon avis.
 
-# Mon rôle dans le futur
-Lorsque je ferai ce projet de synthèse, j'espère pouvoir m'occuper de la programmation, car je n'ai pas d'esprit artistique et ce n'est vraiment pas ce qui me motive. J'aimerais aussi m'occuper de la gestion de l'équipe, car je veux vraiment avoir une bonne note et la meilleure manière d'avoir une bonne note c'est de s'assurer que tout se passe comme prévu et sans retard.
-
 
 # Ce que je ressentirai
 ## 1- L'horloge de l'apocalypse
@@ -42,3 +39,5 @@ Je crois que le jeu va me faire rire, car ça reste un jeu télévisé et lorsqu
 ## 6- 3 minutes
 Je ne crois pas que je vais expérimenter cette œuvre, car j'ai peur des endroits restreints, mais si je le faisais je me sentirais exactement comme quelqu'un enfermé dans un casier : mal. Toutefois, la partie en vr a l'air amusante et j'aimerais assurément y jouer.
 
+# Mon rôle dans le futur
+Lorsque je ferai ce projet de synthèse, j'espère pouvoir m'occuper de la programmation, car je n'ai pas d'esprit artistique et ce n'est vraiment pas ce qui me motive. J'aimerais aussi m'occuper de la gestion de l'équipe, car je veux vraiment avoir une bonne note et la meilleure manière d'avoir une bonne note c'est de s'assurer que tout se passe comme prévu et sans retard.
