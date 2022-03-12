@@ -75,4 +75,13 @@ Vu que nous savons que la tension est égale au courant fois la résistance grâ
 Alors, par exemple, avec un microcontrôleur, il est possible de connaitre la position du curseur en mesurant le changement apporté à la résistance.
 Les créateurs avaient besoin de cette information pour changer la scène selon le degré de l'aiguille de l'horloge.
 
+## TECHNIQUE QUE NOUS NE CONNAISSIONS PAS
+#### Utiliser une kinect pour détecter le mouvement et ainsi pouvoir faire allumer une lumière
+![kinect](/medias/kinect.jpg)
+>image fournie par microsoft, [lien](https://m.media-amazon.com/images/I/61eGIYEEEBL._SL1500_.jpg)
+Dans cette oeuvre, les créateurs devaient trouver une manière d'allumer une lumière lorsqu'un intéracteur entre dans la pièce.
+
+![raspberry pi](/medias/raspberry_pi.jpg)
+>image trouvée sur wikipedia, téléversée par Laserlicht [ici](https://commons.wikimedia.org/wiki/File:Raspberry_Pi_4_Model_B_-_Side.jpg)
+Pour se faire ils ont utilisé une kinect pour détecter un mouvement, puis l'information était transmise à un raspberry pi qui lui même envoyait l'information au logiciel max. Rendu dans le logiciel, il est possible de causer des évènements lorsque certaines informations sont reçues. Alors, lorsque la kinect détecte quelqu'un, le logiciel max recoit l'informaiton, puis il dit à la lumière de souvrir.
 
