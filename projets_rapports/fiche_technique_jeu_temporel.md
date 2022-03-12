@@ -32,7 +32,7 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
 
 ## SCHÉMA DE PLANTATION
 ![schema](/medias/schema_jeu_temporel.png)
->#### Image tiré de [Github](https://github.com/Orbital3/Jeu-Temporel)
+>#### Image tirée de [Github](https://github.com/Orbital3/Jeu-Temporel)
 
 ## COURS INDISPENSABLES
 
