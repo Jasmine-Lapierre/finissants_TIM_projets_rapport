@@ -63,9 +63,16 @@ Le matériel scénographique utilisés donne une ambiance de l'époque romaine/a
 ## COMPOSANTE TECHNOLOGIQUE QUE NOUS NE CONNAISSIONS PAS
 #### POTENTIOMÈTRE
 Dans cette oeuvre, les créateurs ont utilisé un potentiomètre de 360˚ qui sert à transmettre la position en degré de l'aiguille de l'horloge.
+![potentiometre](/medias/potentiometre.jpg)
+> photo prise par [IAIN FERGUSSON](https://iainisbald.wordpress.com/)
 
+Un potentiomètre est un type de résistance ajustable qui divise la tension avec un curseur.
+![schéma du potentiomètre](/medias/potentiometre_schema.png)
+> schéma consulté sur [le site de Stéphane Genouel](http://stephane.genouel.free.fr/FT/0%20Dossier%20technique/1%20Texte/Scenari%20capteurs/co/module_DT_13.html)
 
-
-
+Ici, nous pouvons voir que le balai peut bouger d'une connexion à l'autre
+Vu que nous savons que la tension est égale au courant fois la résistance grâce à la loi d'Ohm, nous savons qu'en changeant la résistance nous pouvons changer la tension.
+Alors, par exemple, avec un microcontrôleur, il est possible de connaitre la position du curseur en mesurant le changement apporté à la résistance.
+Les créateurs avaient besoin de cette information pour changer la scène selon le degré de l'aiguille de l'horloge.
 
 
