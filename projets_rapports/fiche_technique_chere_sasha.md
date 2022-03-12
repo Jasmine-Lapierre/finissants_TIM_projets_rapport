@@ -15,7 +15,7 @@
 
 ## VUE DE L'ENSEMBLE DU PROJET
 ![INSTALLATION](/medias/chere_sasha_installation.jpg)
->image provenant du [GitHub]()
+>image provenant du [GitHub](https://github.com/task-tim/Chere-Sasha)
 
 ![PLAN](/medias/chere_sasha_plan.jpg)
 >image provenant d'un document que j'ai photographié
@@ -28,7 +28,10 @@ Chaque partie a une ambiance differente soulignée par une traque sonore differe
 L'ambiance du côté adolescent est sombre et triste, alors que celle de l'adulte est plus joyeuse et fait comprendre à l'interacteur qu'il y a un effet de renouveau et que la situation de Sasha a changée au fil du temps.
 
 À plusieurs moments, des vidéos sont projetées au mur.
+
 ![PROJECTION](/medias/chere_sasha_projecteur.jpg)
+>image provenant du [GitHub](https://github.com/task-tim/Chere-Sasha)
+
 #### INTERACTION AVEC LE PROJET
 Dans la chambre, il y a plusieurs objets avec lesquels les interacteurs peuvent interagir. 
 
@@ -42,6 +45,8 @@ Dans la chambre, il y a plusieurs objets avec lesquels les interacteurs peuvent 
 
 ## SCHÉMA DE PLANTATION
 ![PLANTATION](/medias/chere_sasha_plantation.jpg)
+>image provenant du [GitHub](https://github.com/task-tim/Chere-Sasha)
+
 ## COURS INDISPENSABLES
 1. Le cours de Documentation d'oeuvres multimédia. Afin de documenter toutes les étapes du projet, l'équipe utilise Github qui est un outils qu'on apprend à utiliser en cours de Documentation d'oeuvres multimédia. Sans ces connaissances, les étudiants auraient de la difficulté à garder une hiérarchie des dossiers et une nomenclature ordonnée et compréhensible.
 
