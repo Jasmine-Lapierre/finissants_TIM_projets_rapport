@@ -18,7 +18,7 @@ Enfin, des témoignages/articles de journaux sont visibles sur les murs pour sen
 ## VUE DE L'ENSEMBLE DU PROJET
 
 ### Ambiance du projet
-Les differents "bugs" qui se produisent lorsque l'élève , comme le professeur qui parle une autre langue et qui est à l'envers, ainsi que les toasts qui devienent des devoirs rendent l'ambiance plutôt bizarre et effrayante. Cette ambiance est amplifiée par le fait que l'interacteur le vie à la première personne avec un casque de VR.
+Les differents "bugs" qui se produisent lorsque l'élève devient anxieux  comme le professeur qui parle une autre langue et qui est à l'envers ainsi que les toasts qui devienent des devoirs rendent l'ambiance plutôt bizarre et effrayante. Cette ambiance est amplifiée par le fait que l'interacteur le vie à la première personne avec un casque de VR.
 
 ### Interaction de l'utilisateur
 Le projet a plutôt l'air d'une oeuvre contemplative oû la seule interraction que l'interracteur peut faire est d'arrêter la réalité virtuelle en appuyant sur un bouton de deconnexion sur l'écran d'ordinateur dans la réalité virtuelle.
