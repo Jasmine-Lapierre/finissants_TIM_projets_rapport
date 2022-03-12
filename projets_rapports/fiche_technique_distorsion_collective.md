@@ -17,6 +17,7 @@ Enfin, des témoignages/articles de journaux sont visibles sur les murs pour sen
 
 ## VUE DE L'ENSEMBLE DU PROJET
 ![INSTALLATION](/medias/distorsion_collective_installation.jpg)
+De loin, l'interacteur peut voir une projection sur le mur ainsi qu'un casque VR, une chaise et un bureau.
 ### Ambiance du projet
 Les differents "bugs" qui se produisent lorsque l'élève devient anxieux  comme le professeur qui parle une autre langue et qui est à l'envers ainsi que les toasts qui devienent des devoirs rendent l'ambiance plutôt bizarre et effrayante. Cette ambiance est amplifiée par le fait que l'interacteur le vie à la première personne avec un casque de VR.
 
