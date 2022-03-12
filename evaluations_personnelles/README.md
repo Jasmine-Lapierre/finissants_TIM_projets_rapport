@@ -1,1 +1,1 @@
-Ce dossier contient les évaluations personnelles des étudiants.
+Ce dossier contient les fiches individuelles des étudiants.
