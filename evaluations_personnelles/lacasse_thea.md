@@ -2,7 +2,7 @@
 ## ORDRE DE MES PRÉFÉRENCES
 
 ### 1. L'Horloge de l'Apocalypse
-J'aime le principe de l'Horloge de l'Apocalypse qui représente toute les facettes de notre société. Le fait qu'une horloge représente littéralement «l'histoire» de la Terre et chacune de ses «phases», la création nous porte à réfléchir sur l'avenir et sur ce qu'on pourrait faire pour éviter le futur que représente l'animation lorsque l'aiguille de l'horloge est sur le 12 (donc l'apocalypse/la fin du monde). J'imagine que chaque intercateurs vont être facinés et réagire de façon positivemnet par le mécanisme de l'horloge qui est relié aux animations.   
+J'aime le principe de l'Horloge de l'Apocalypse qui représente toute les facettes de notre société. Le fait qu'une horloge représente littéralement «l'histoire» de la Terre et chacune de ces «phases», la création nous porte à réfléchir sur l'avenir et sur ce qu'on pourrait faire pour éviter le futur que représente l'animation lorsque l'aiguille de l'horloge est sur le 12 (donc l'apocalypse/la fin du monde). J'imagine que chaque intercateurs vont être facinés et réagire de façon positivemnet par le mécanisme de l'horloge qui est relié aux animations.   
 
 ### 2. Chronofrage
 La chose qui m'a accroché et qui a fait en sorte que cette oeuvre se retrouve en numéro 2 c'est la façon dont l'anxiété est représenté avec le temps.
